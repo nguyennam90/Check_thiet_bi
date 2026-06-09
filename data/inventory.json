@@ -523,6 +523,37 @@
       ],
       "createdAt": "2026-06-09T02:41:24",
       "updatedAt": "2026-06-09T02:41:24"
+    },
+    {
+      "id": "26c0e4fc82494585bdf7c2fe1b3969f0",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hương sơn",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485600",
+        "Tên Bưu cục": "Hương Sơn",
+        "Họ và tên người sử dụng": "Nguyễn Thanh Hà",
+        "Mã HRM": "00027953",
+        "Bộ phận / Phòng ban": "Giao dịch Hương sơn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HSON1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZY61H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro N 10.0.22000",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.150",
+        "MAC Address": "48:4D:7E:DB:6D:23"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:42:20",
+      "updatedAt": "2026-06-09T02:42:20"
     }
   ]
 }
