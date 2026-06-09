@@ -585,6 +585,37 @@
       "attachments": [],
       "createdAt": "2026-06-09T02:45:24",
       "updatedAt": "2026-06-09T02:45:24"
+    },
+    {
+      "id": "01f563e0044b45268e421f96f40464dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "XA SƠN TRUNG",
+        "Tên Xã": "CAO THỊ HƯƠNG LAN",
+        "Mã Bưu cục": "485641",
+        "Tên Bưu cục": "BDVHX SƠN TRUNG",
+        "Họ và tên người sử dụng": "CAO THỊ HƯƠNG LAN",
+        "Mã HRM": "VHX",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-FFLPKB5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64FM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.14",
+        "MAC Address": "18:66:DA:29:3A:44"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T03:13:20",
+      "updatedAt": "2026-06-09T03:13:20"
     }
   ]
 }
