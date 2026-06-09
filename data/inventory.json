@@ -339,6 +339,37 @@
       "attachments": [],
       "createdAt": "2026-06-09T01:34:18",
       "updatedAt": "2026-06-09T01:34:18"
+    },
+    {
+      "id": "077a1cc0e8d941fcaccfc949cbaf52ac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "485820",
+        "Tên Xã": "Xã Hương Sơn",
+        "Mã Bưu cục": "485820",
+        "Tên Bưu cục": "BĐ VHX Sơn Ninh",
+        "Họ và tên người sử dụng": "Dương Thị Bích Liên",
+        "Mã HRM": "00028000",
+        "Bộ phận / Phòng ban": "TBC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-SONNINH-485",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221N7",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.11",
+        "MAC Address": "10:B6:76:9E:22:C4"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-09T02:04:49",
+      "updatedAt": "2026-06-09T02:04:49"
     }
   ]
 }
