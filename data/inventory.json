@@ -279,7 +279,7 @@
         "Mã BĐ Xã": "4809",
         "Tên Xã": "VP Bưu điện tỉnh",
         "Mã Bưu cục": "481120",
-        "Tên Bưu cục": "vp",
+        "Tên Bưu cục": "Văn phòng Bưu điện tỉnh",
         "Họ và tên người sử dụng": "Đặng Quỳnh Trang",
         "Mã HRM": "00027851",
         "Bộ phận / Phòng ban": "Tài chính kế hoạch",
@@ -307,7 +307,7 @@
         }
       ],
       "createdAt": "2026-06-09T00:57:30",
-      "updatedAt": "2026-06-09T00:57:30"
+      "updatedAt": "2026-06-09T01:18:53"
     }
   ]
 }
