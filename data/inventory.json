@@ -412,6 +412,43 @@
       "attachments": [],
       "createdAt": "2026-06-09T02:23:36",
       "updatedAt": "2026-06-09T02:23:36"
+    },
+    {
+      "id": "f0229d8eecd4403c972434dbfc5bc599",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "bưu cục khai thác hương sơn",
+        "Tên Bưu cục": "485630",
+        "Họ và tên người sử dụng": "phạm thành công",
+        "Mã HRM": "00027968",
+        "Bộ phận / Phòng ban": "bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HS5630",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72L9BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.20",
+        "MAC Address": "B8:85:84:A9:26:9B"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T02:32:26",
+      "updatedAt": "2026-06-09T02:32:26"
     }
   ]
 }
