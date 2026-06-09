@@ -449,6 +449,43 @@
       ],
       "createdAt": "2026-06-09T02:32:26",
       "updatedAt": "2026-06-09T02:32:26"
+    },
+    {
+      "id": "a43d4f1cc3a0429592532af05203786c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487880",
+        "Tên Bưu cục": "Cẩm Vịnh·",
+        "Họ và tên người sử dụng": "Phạm· Thị· Hằng··",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CVINH-48",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC011321K",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.213",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "HP LaserJet Pro M203d",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T02:34:42",
+      "updatedAt": "2026-06-09T02:34:42"
     }
   ]
 }
