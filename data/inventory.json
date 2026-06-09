@@ -486,6 +486,43 @@
       ],
       "createdAt": "2026-06-09T02:34:42",
       "updatedAt": "2026-06-09T02:34:42"
+    },
+    {
+      "id": "c82cce92ba2a47e0a4227024ffa5489e",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4831",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485624",
+        "Tên Bưu cục": "VP BĐH Hương Sơn",
+        "Họ và tên người sử dụng": "Đặng Thị Loan",
+        "Mã HRM": "00027964",
+        "Bộ phận / Phòng ban": "Kế Toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-KT-LOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3020",
+        "Năm sản xuất": "2023",
+        "Serial Number": "7XM6414",
+        "CPU": "13th Gen Intel(R) Core(TM) i5-13400",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "455 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional 2016 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.110",
+        "MAC Address": "20:88:10:82:93:AE"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": "R-41001260"
+        }
+      ],
+      "createdAt": "2026-06-09T02:41:24",
+      "updatedAt": "2026-06-09T02:41:24"
     }
   ]
 }
