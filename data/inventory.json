@@ -616,6 +616,43 @@
       "attachments": [],
       "createdAt": "2026-06-09T03:13:20",
       "updatedAt": "2026-06-09T03:13:20"
+    },
+    {
+      "id": "e1226f79d27b4b3189ca35f7f3cf34d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "4826",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã",
+        "Họ và tên người sử dụng": "Nguyễn Văn Quang",
+        "Mã HRM": "00028037",
+        "Bộ phận / Phòng ban": "Quản lý",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "284VCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office 64-bit Components 2016",
+        "Antivirus": "",
+        "IP Address": "192.168.1.48",
+        "MAC Address": "F8:DA:0C:36:C1:FB"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP LaserJet Pro M706n",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-09T04:06:58",
+      "updatedAt": "2026-06-09T04:06:58"
     }
   ]
 }
