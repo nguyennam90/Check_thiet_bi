@@ -383,48 +383,6 @@
       "updatedAt": "2026-06-09T02:10:50"
     },
     {
-      "id": "5bf3a15a3c6e4ec9a7658b069c31baac",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "485670",
-        "Tên Bưu cục": "BĐVHX Sơn Bằng",
-        "Họ và tên người sử dụng": "Thái Thị Quỳnh Trang",
-        "Mã HRM": "00027988",
-        "Bộ phận / Phòng ban": "Trưởng Bưu Cục",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
-        "Loại máy": "Desktop",
-        "Hãng": "HP",
-        "Model": "HP Pro Mini 400 G9 Desktop PC",
-        "Năm sản xuất": "",
-        "Serial Number": "8CC5231LRC",
-        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
-        "RAM": "7.7 GB",
-        "Ổ cứng": "238 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.12",
-        "MAC Address": "F8:ED:FC:6A:6F:A7"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-09T02:17:24",
-      "updatedAt": "2026-06-09T02:17:24"
-    },
-    {
       "id": "5c95bd7bcf224e0e94e12b30ed403be1",
       "category": "3. Máy Tính",
       "fields": {
