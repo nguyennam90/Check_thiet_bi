@@ -310,37 +310,6 @@
       "updatedAt": "2026-06-09T01:18:53"
     },
     {
-      "id": "2fb86efa04f54b938e12c75dabaaa2f2",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "485850",
-        "Tên Xã": "Bdvh sơn hoà xã sơn tiến",
-        "Mã Bưu cục": "485850",
-        "Tên Bưu cục": "Bdvh sơn hoà xã sơn tiến",
-        "Họ và tên người sử dụng": "Trần Thị Thảo",
-        "Mã HRM": "00028034",
-        "Bộ phận / Phòng ban": "Nv",
-        "Mã vật tư": "Máy tính",
-        "Tên máy (Hostname)": "Del",
-        "Loại máy": "Máy bàn",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [],
-      "createdAt": "2026-06-09T01:34:18",
-      "updatedAt": "2026-06-09T01:34:18"
-    },
-    {
       "id": "077a1cc0e8d941fcaccfc949cbaf52ac",
       "category": "3. Máy Tính",
       "fields": {
