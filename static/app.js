@@ -9,6 +9,7 @@ const GITHUB_API = "https://api.github.com";
 const COMMON_REQUIRED = [
   "Mã Bưu cục", "Tên Bưu cục",
   "Họ và tên người sử dụng",
+  "Mã HRM",
   "Bộ phận / Phòng ban",
   "Tên tài sản\n(Theo danh mục CCDC)",
 ];
