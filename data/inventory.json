@@ -271,6 +271,43 @@
       ],
       "createdAt": "2026-06-08T09:51:24",
       "updatedAt": "2026-06-08T09:51:24"
+    },
+    {
+      "id": "6878015544f14804b3b6970522663e54",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4809",
+        "Tên Xã": "VP Bưu điện tỉnh",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "vp",
+        "Họ và tên người sử dụng": "Đặng Quỳnh Trang",
+        "Mã HRM": "00027851",
+        "Bộ phận / Phòng ban": "Tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-KT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "659N8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.130.52",
+        "MAC Address": "18:66:DA:27:EC:75"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "L11121E"
+        }
+      ],
+      "createdAt": "2026-06-09T00:57:30",
+      "updatedAt": "2026-06-09T00:57:30"
     }
   ]
 }
