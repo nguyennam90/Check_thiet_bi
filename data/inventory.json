@@ -817,21 +817,6 @@
       "attachments": [],
       "createdAt": "2026-06-11T03:01:27",
       "updatedAt": "2026-06-11T03:01:43"
-    },
-    {
-      "id": "ce34d724d36b454eacf4259a05ec3c71",
-      "category": "8. Thiết Bị Khác",
-      "fields": {
-        "3": "28",
-        "481920": "481470",
-        "KT Thach Ha": "KHL Ha Tinh",
-        "Nguyen Minh Nguyet": "KHL Ha Tinh",
-        "Máy quét (Scanner)": "Máy quét (Scanner)",
-        "Winson": "Honeywell"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-11T03:01:27",
-      "updatedAt": "2026-06-11T03:01:43"
     }
   ]
 }
