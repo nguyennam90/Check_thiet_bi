@@ -6552,6 +6552,37 @@
       ],
       "createdAt": "2026-06-11T10:44:54",
       "updatedAt": "2026-06-11T10:44:54"
+    },
+    {
+      "id": "bce7ccaa153a4f9c90cac9aebd3e8f96",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4829",
+        "Tên Xã": "đông kinh",
+        "Mã Bưu cục": "482960",
+        "Tên Bưu cục": "vhx ích hậu",
+        "Họ và tên người sử dụng": "trần thị lan",
+        "Mã HRM": "00029870",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "máy bàn",
+        "Hãng": "dell",
+        "Model": "D08U",
+        "Năm sản xuất": "2015",
+        "Serial Number": "B02MH62",
+        "CPU": ".",
+        "RAM": "..",
+        "Ổ cứng": ".",
+        "Hệ điều hành": ".",
+        "Office": ".",
+        "Antivirus": ".",
+        "IP Address": ".",
+        "MAC Address": "."
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T10:57:20",
+      "updatedAt": "2026-06-11T10:57:20"
     }
   ]
 }
