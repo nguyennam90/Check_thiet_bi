@@ -5481,6 +5481,48 @@
       ],
       "createdAt": "2026-06-11T04:05:56",
       "updatedAt": "2026-06-11T04:05:56"
+    },
+    {
+      "id": "c530b90581c7429d9e72f61136167d03",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484430",
+        "Tên Xã": "VHX Xuân Yên",
+        "Mã Bưu cục": "484430",
+        "Tên Bưu cục": "VHX Xuân Yên",
+        "Họ và tên người sử dụng": "Đặng Thị Chinh",
+        "Mã HRM": "00027816",
+        "Bộ phận / Phòng ban": "Nhân viên BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64MF8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.196",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "hỏng",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T04:09:58",
+      "updatedAt": "2026-06-11T04:09:58"
     }
   ]
 }
