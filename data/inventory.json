@@ -5675,6 +5675,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T08:02:58",
       "updatedAt": "2026-06-11T08:02:58"
+    },
+    {
+      "id": "62b4beb8048a4a4a8ccc1a887ec5a287",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482900",
+        "Tên Bưu cục": "Can Lộc",
+        "Họ và tên người sử dụng": "Phan Thị Linh",
+        "Mã HRM": "00028291",
+        "Bộ phận / Phòng ban": "KSV/ GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-8F09U82",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "BFXBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.142.43",
+        "MAC Address": "F8:BC:12:A2:D7:61"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "2900"
+        }
+      ],
+      "createdAt": "2026-06-11T08:07:34",
+      "updatedAt": "2026-06-11T08:07:34"
     }
   ]
 }
