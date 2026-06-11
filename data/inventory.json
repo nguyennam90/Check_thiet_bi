@@ -5859,6 +5859,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:00:44",
       "updatedAt": "2026-06-11T09:00:44"
+    },
+    {
+      "id": "b3713d18ffb640b5a46fb5d5ec314bcf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483380",
+        "Tên Bưu cục": "quang lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lệ Mỹ",
+        "Mã HRM": "00027601",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3542",
+        "Năm sản xuất": "",
+        "Serial Number": "856DN52",
+        "CPU": "Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "18:4F:32:69:58:B9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:09:20",
+      "updatedAt": "2026-06-11T09:09:20"
     }
   ]
 }
