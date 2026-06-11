@@ -6142,6 +6142,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:58:03",
       "updatedAt": "2026-06-11T09:58:03"
+    },
+    {
+      "id": "9f3445e6137f4453bd7f5441cc604d92",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482160",
+        "Tên Bưu cục": "THẠCH TRỊ",
+        "Họ và tên người sử dụng": "HỒ THỊ NGÂN",
+        "Mã HRM": "00027705",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3V681H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "48:4D:7E:DB:7C:0C"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:58:36",
+      "updatedAt": "2026-06-11T09:58:36"
     }
   ]
 }
