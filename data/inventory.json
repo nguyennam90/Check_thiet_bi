@@ -5529,37 +5529,6 @@
       "attachments": [],
       "createdAt": "2026-06-11T04:28:35",
       "updatedAt": "2026-06-11T04:28:35"
-    },
-    {
-      "id": "397209d95b79408b91beed4ca0baa7ba",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "frtrtfhgfh",
-        "Tên Bưu cục": "fghfgh",
-        "Họ và tên người sử dụng": "fghxdfdg",
-        "Mã HRM": "dfgfhfghfghgf",
-        "Bộ phận / Phòng ban": "fghfghfghfg",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-TQ1IKD6",
-        "Loại máy": "Desktop",
-        "Hãng": "Micro-Star International Co., Ltd.",
-        "Model": "MS-7C89",
-        "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "703 GB",
-        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
-        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.42.48.97",
-        "MAC Address": "2C:F0:5D:61:4E:51"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-11T07:03:20",
-      "updatedAt": "2026-06-11T07:03:20"
     }
   ]
 }
