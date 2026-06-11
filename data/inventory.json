@@ -832,6 +832,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T03:02:30",
       "updatedAt": "2026-06-11T03:02:31"
+    },
+    {
+      "id": "8d0cfdf05a504483aacdcf06a03b213a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488960",
+        "Tên Bưu cục": "BĐVHX Kỳ Trung",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hà",
+        "Mã HRM": "00028267",
+        "Bộ phận / Phòng ban": "BĐVHX Kỳ Trung",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-KYTRUNG-488",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72N5BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.10",
+        "MAC Address": "B8:85:84:AB:12:D7"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:05:07",
+      "updatedAt": "2026-06-11T03:05:07"
     }
   ]
 }
