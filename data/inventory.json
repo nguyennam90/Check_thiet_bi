@@ -4907,32 +4907,6 @@
       "updatedAt": "2026-06-11T03:01:16"
     },
     {
-      "id": "ee333ab0e0df4c7183fedbd2bf49f928",
-      "category": "3. Máy Tính",
-      "fields": {
-        "3": "99",
-        "481120": "481470",
-        "Văn phòng Bưu Điện Tỉnh": "KHL Ha Tinh",
-        "Nguyễn Thị Hồng Tịnh": "KHL Ha Tinh",
-        "Phòng TCKH": "KHL Ha Tinh",
-        "TINH": "HTH-TPHT-KHL212",
-        "Desktop": "Desktop",
-        "Dell Inc.": "Acer",
-        "OptiPlex 3040": "Aspire XC-710",
-        "64KM8F2": "DTB16SV00261002A0A3000",
-        "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
-        "3.9 GB": "3,9 GB",
-        "238 GB": "931 GB",
-        "Microsoft Windows 10 Pro 10.0.19045": "Microsoft Windows 10 Pro 10.0.19043",
-        "Windows Defender": "Windows Defender, Kaspersky Endpoint Security for Windows",
-        "10.43.130.63": "10.43.130.212",
-        "18:66:DA:28:FA:3C": "F4:4D:30:45:6A:70"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-11T03:01:27",
-      "updatedAt": "2026-06-11T03:02:31"
-    },
-    {
       "id": "74142eca123248449173066885ad9e36",
       "category": "4A. Máy In Laser",
       "fields": {
