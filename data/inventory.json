@@ -5028,37 +5028,6 @@
       "updatedAt": "2026-06-11T03:10:11"
     },
     {
-      "id": "3e45023b8a45470cb53410c97c5e9166",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "4814",
-        "Tên Xã": "Bưu điện Xã Can Lộc",
-        "Mã Bưu cục": "482909",
-        "Tên Bưu cục": "Văn phòng Bưu điện xã Can Lộc",
-        "Họ và tên người sử dụng": "Võ Thị Thương",
-        "Mã HRM": "0028272",
-        "Bộ phận / Phòng ban": "Quản Lý",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "Máy tính xách tay",
-        "Loại máy": "",
-        "Hãng": "HP",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [],
-      "createdAt": "2026-06-11T03:21:21",
-      "updatedAt": "2026-06-11T03:21:21"
-    },
-    {
       "id": "7e4b584cb5214ea79adbd80570be7264",
       "category": "3. Máy Tính",
       "fields": {
