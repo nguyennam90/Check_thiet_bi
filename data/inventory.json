@@ -6032,6 +6032,43 @@
       ],
       "createdAt": "2026-06-11T09:47:54",
       "updatedAt": "2026-06-11T09:47:54"
+    },
+    {
+      "id": "c39132e2753e4b0b83c59f14b109751f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483450",
+        "Tên Xã": "ĐỒNG LỘC",
+        "Mã Bưu cục": "483450",
+        "Tên Bưu cục": "VH MỸ LỘC",
+        "Họ và tên người sử dụng": "TRẦN THỊ XOAB",
+        "Mã HRM": "00027670",
+        "Bộ phận / Phòng ban": "VH XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-MYLOC483",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "647M8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.62",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANO2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:48:42",
+      "updatedAt": "2026-06-11T09:48:42"
     }
   ]
 }
