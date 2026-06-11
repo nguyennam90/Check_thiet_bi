@@ -5439,6 +5439,48 @@
       ],
       "createdAt": "2026-06-11T03:44:18",
       "updatedAt": "2026-06-11T03:44:18"
+    },
+    {
+      "id": "97bcc1fd7be2467f8c498e683599cafe",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "482610",
+        "Tên Xã": "nam hương",
+        "Mã Bưu cục": "482610",
+        "Tên Bưu cục": "nam hương",
+        "Họ và tên người sử dụng": "nguyễn thị mai",
+        "Mã HRM": "00102565",
+        "Bộ phận / Phòng ban": "bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "482610-NAMHUONG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79JFBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "471 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "B8:85:84:AB:1F:7F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T04:05:56",
+      "updatedAt": "2026-06-11T04:05:56"
     }
   ]
 }
