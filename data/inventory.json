@@ -486,6 +486,43 @@
       ],
       "createdAt": "2026-06-08T10:27:42",
       "updatedAt": "2026-06-08T10:27:42"
+    },
+    {
+      "id": "f54c8b265cd342c1ac1ff17110490af7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "Mai Phụ",
+        "Mã Bưu cục": "482020",
+        "Tên Bưu cục": "VHX Mai Phụ",
+        "Họ và tên người sử dụng": "Nguyễn Thị KIm Cúc",
+        "Mã HRM": "00028308",
+        "Bộ phận / Phòng ban": "Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LH-MAIPHU-4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Y061H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.239",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon LHP 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T01:55:16",
+      "updatedAt": "2026-06-11T01:55:16"
     }
   ]
 }
