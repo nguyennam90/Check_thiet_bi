@@ -6356,6 +6356,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T10:06:55",
       "updatedAt": "2026-06-11T10:06:55"
+    },
+    {
+      "id": "38a31ec303f541c887488a75c39751bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "xã cẩm hưng",
+        "Mã Bưu cục": "488000",
+        "Tên Bưu cục": "bưu điện văn hóa xã cảm hưng",
+        "Họ và tên người sử dụng": "nguyễn thị hồng",
+        "Mã HRM": "00266530",
+        "Bộ phận / Phòng ban": "nhân viên bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CHUNG-48",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79GDBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "B8:85:84:AB:15:CD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T10:07:25",
+      "updatedAt": "2026-06-11T10:07:25"
     }
   ]
 }
