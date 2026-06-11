@@ -6001,6 +6001,43 @@
       ],
       "createdAt": "2026-06-11T09:48:42",
       "updatedAt": "2026-06-11T09:49:49"
+    },
+    {
+      "id": "9721d274e23c48de8a9d6cdf109c961a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "484730",
+        "Tên Bưu cục": "Bưu điện văn hóa xuân liên xã cổ đạm",
+        "Họ và tên người sử dụng": "Nguyễn thị xanh",
+        "Mã HRM": "00027811",
+        "Bộ phận / Phòng ban": "Trưởng văn hóa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "dell",
+        "Hãng": "dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon -LBP2900",
+          "serial": "1"
+        }
+      ],
+      "createdAt": "2026-06-11T09:51:15",
+      "updatedAt": "2026-06-11T09:51:15"
     }
   ]
 }
