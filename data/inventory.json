@@ -622,6 +622,37 @@
       ],
       "createdAt": "2026-06-11T01:57:35",
       "updatedAt": "2026-06-11T01:57:35"
+    },
+    {
+      "id": "8ba1d5920a8f42319000ae2b6458c3df",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4813",
+        "Tên Xã": "MAI PHỤ",
+        "Mã Bưu cục": "482050",
+        "Tên Bưu cục": "CHỢ PHỦ",
+        "Họ và tên người sử dụng": "DƯƠNG THỊ HUYỀN TRANG",
+        "Mã HRM": "00220912",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN TẠI ĐIỂM",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "MSI",
+        "Model": "MS-7817",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "2C:F0:5D:54:D8:AA"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T01:58:43",
+      "updatedAt": "2026-06-11T01:58:43"
     }
   ]
 }
