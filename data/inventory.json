@@ -4876,37 +4876,6 @@
       "updatedAt": "2026-06-11T03:00:16"
     },
     {
-      "id": "594ebd833e1c4f37ac769f1fb9081ea4",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "483100",
-        "Tên Xã": "CAN LỘC",
-        "Mã Bưu cục": "483100",
-        "Tên Bưu cục": "VƯỢNG LỘC",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ QUỲNH",
-        "Mã HRM": "00027654",
-        "Bộ phận / Phòng ban": "VHX",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "HTH-CL-VL-48310",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H81M-H M.2",
-        "Năm sản xuất": "",
-        "Serial Number": "To be filled by O.E.M.",
-        "CPU": "Intel(R) Core(TM) i3-4130 CPU @ 3.40GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "111 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
-        "Office": "Microsoft Office Professional Plus 2021 - en-us",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.28",
-        "MAC Address": "10:FF:E0:FA:AA:63"
-      },
-      "attachments": [],
-      "createdAt": "2026-06-11T03:01:16",
-      "updatedAt": "2026-06-11T03:01:16"
-    },
-    {
       "id": "8d0cfdf05a504483aacdcf06a03b213a",
       "category": "3. Máy Tính",
       "fields": {
