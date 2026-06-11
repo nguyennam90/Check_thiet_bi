@@ -725,6 +725,113 @@
       "attachments": [],
       "createdAt": "2026-06-11T03:01:16",
       "updatedAt": "2026-06-11T03:01:16"
+    },
+    {
+      "id": "ee333ab0e0df4c7183fedbd2bf49f928",
+      "category": "3. Máy Tính",
+      "fields": {
+        "3": "99",
+        "481120": "481470",
+        "Văn phòng Bưu Điện Tỉnh": "KHL Ha Tinh",
+        "Nguyễn Thị Hồng Tịnh": "KHL Ha Tinh",
+        "Phòng TCKH": "KHL Ha Tinh",
+        "TINH": "HTH-TPHT-KHL212",
+        "Desktop": "Desktop",
+        "Dell Inc.": "Acer",
+        "OptiPlex 3040": "Aspire XC-710",
+        "64KM8F2": "DTB16SV00261002A0A3000",
+        "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz": "Intel(R) Pentium(R) CPU G4400 @ 3.30GHz",
+        "3.9 GB": "3,9 GB",
+        "238 GB": "931 GB",
+        "Microsoft Windows 10 Pro 10.0.19045": "Microsoft Windows 10 Pro 10.0.19043",
+        "Windows Defender": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "10.43.130.63": "10.43.130.212",
+        "18:66:DA:28:FA:3C": "F4:4D:30:45:6A:70"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
+    },
+    {
+      "id": "74142eca123248449173066885ad9e36",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "3": "37",
+        "481120": "480900",
+        "VPBĐT": "KT1",
+        "lê thị thùy": "KT1",
+        "phòng tckh": "KT1",
+        "Máy in laser": "Máy in laser",
+        "canonlbp226dw": "CANON 2900",
+        "NPZA047586": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
+    },
+    {
+      "id": "5e40a89e4d19434c97899da8736f1b4e",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "3": "24",
+        "487600": "481470",
+        "Bưu cục GDTT Xã Cẩm Xuyên": "KHL Ha Tinh",
+        "Nguyễn Thị Lan Anh": "KHL Ha Tinh",
+        "00098837": "481470",
+        "GDTT": "KHL Ha Tinh",
+        "Máy in nhiệt": "Máy in nhiệt",
+        "Xprinter": "Zebra DZ620",
+        "S420BUH231060017": "D3J204202071"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
+    },
+    {
+      "id": "f207d4a1769a4012a210b2a268dead7b",
+      "category": "4C. Máy Photocopy",
+      "fields": {
+        "3": "4",
+        "481110": "481470",
+        "BCP Ha Tinh": "KHL TP Ha Tinh",
+        "Máy photocopy": "Máy photocopy",
+        "canon": "Canon"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
+    },
+    {
+      "id": "820943fd602544bf8f57d797f0260047",
+      "category": "5. Đầu Đọc Mã Vạch",
+      "fields": {
+        "3": "24",
+        "481690": "484470",
+        "vhx thach binh": "bưu cục vhx xuân phổ",
+        "nguyen thi phuc": "nguyễn thị duyên",
+        "00028366": "00027805",
+        "vhx": "gdv, vhx xuân phổ",
+        "Đầu đọc mã vạch": "Đầu đọc mã vạch",
+        "symbol": "zebra"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
+    },
+    {
+      "id": "ce34d724d36b454eacf4259a05ec3c71",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "3": "28",
+        "481920": "481470",
+        "KT Thach Ha": "KHL Ha Tinh",
+        "Nguyen Minh Nguyet": "KHL Ha Tinh",
+        "Máy quét (Scanner)": "Máy quét (Scanner)",
+        "Winson": "Honeywell"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:01:27",
+      "updatedAt": "2026-06-11T03:01:27"
     }
   ]
 }
