@@ -695,6 +695,48 @@
       ],
       "createdAt": "2026-06-11T02:01:35",
       "updatedAt": "2026-06-11T02:01:35"
+    },
+    {
+      "id": "0e9e5e7865f94666aa7c9ca30a4fb399",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488760",
+        "Tên Bưu cục": "BĐVHX Kỳ Tây",
+        "Họ và tên người sử dụng": "Phạm Thị Thảo",
+        "Mã HRM": "00240641",
+        "Bộ phận / Phòng ban": "BĐVHX Kỳ Xuân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TXKA-KTAY11",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0113370",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "38:22:E2:18:89:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:07:21",
+      "updatedAt": "2026-06-11T02:07:21"
     }
   ]
 }
