@@ -6515,6 +6515,43 @@
       ],
       "createdAt": "2026-06-11T10:26:34",
       "updatedAt": "2026-06-11T10:26:34"
+    },
+    {
+      "id": "a105195a7f14411992413f9681a79649",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484917",
+        "Tên Bưu cục": "KHL Đức Thọ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hoài Thu",
+        "Mã HRM": "00027849",
+        "Bộ phận / Phòng ban": "Tổ KHL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-KHL-4849",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64CJ8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "149 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.145.166",
+        "MAC Address": "18:66:DA:28:7F:89"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T10:44:54",
+      "updatedAt": "2026-06-11T10:44:54"
     }
   ]
 }
