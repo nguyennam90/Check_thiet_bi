@@ -757,6 +757,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T02:31:59",
       "updatedAt": "2026-06-11T02:31:59"
+    },
+    {
+      "id": "b983172f0e1649ebb4b0893b973ae66b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4865",
+        "Tên Xã": "Hà Linh",
+        "Mã Bưu cục": "487010",
+        "Tên Bưu cục": "VHX Hà Linh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Ngân Hoa",
+        "Mã HRM": "00028090",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221VQ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:B6:76:9E:20:E0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:46:40",
+      "updatedAt": "2026-06-11T02:46:40"
     }
   ]
 }
