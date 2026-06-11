@@ -6210,6 +6210,48 @@
       ],
       "createdAt": "2026-06-11T10:00:08",
       "updatedAt": "2026-06-11T10:00:08"
+    },
+    {
+      "id": "7fc4b49c19a248658af4b0b9b0513c6a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "18481",
+        "Tên Xã": "Xã Xuân Lộc",
+        "Mã Bưu cục": "483470",
+        "Tên Bưu cục": "VHX : Sơn lộc",
+        "Họ và tên người sử dụng": "Lương Thi Thủy",
+        "Mã HRM": "00027641",
+        "Bộ phận / Phòng ban": "Bưu Điện VHx Sơn Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-SONLOC48",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3ZD41H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "48:4D:7E:D7:2C:38"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T10:01:46",
+      "updatedAt": "2026-06-11T10:01:46"
     }
   ]
 }
