@@ -5613,6 +5613,37 @@
       ],
       "createdAt": "2026-06-11T07:49:10",
       "updatedAt": "2026-06-11T07:49:10"
+    },
+    {
+      "id": "a04a1e7a67b949f089ee330b0b20caf4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng b",
+        "Họ và tên người sử dụng": "Trần Thị Hải Lý",
+        "Mã HRM": "00027618",
+        "Bộ phận / Phòng ban": "Phòng Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-KETOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "641K8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.142.130",
+        "MAC Address": "18:66:DA:28:F9:DD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T07:59:28",
+      "updatedAt": "2026-06-11T07:59:28"
     }
   ]
 }
