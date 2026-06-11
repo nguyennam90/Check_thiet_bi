@@ -879,6 +879,48 @@
       "attachments": [],
       "createdAt": "2026-06-11T02:31:59",
       "updatedAt": "2026-06-11T02:31:59"
+    },
+    {
+      "id": "031c9d1f0be340059ff8de39ab8fd80f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485690",
+        "Tên Bưu cục": "bcp huong son",
+        "Họ và tên người sử dụng": "pham thi thuy",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "van hanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HS022",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "643L8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.222",
+        "MAC Address": "18:66:DA:28:CF:F0"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "KAW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T02:34:02",
+      "updatedAt": "2026-06-11T02:34:02"
     }
   ]
 }
