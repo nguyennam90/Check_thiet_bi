@@ -5712,6 +5712,43 @@
       ],
       "createdAt": "2026-06-11T08:07:34",
       "updatedAt": "2026-06-11T08:07:34"
+    },
+    {
+      "id": "8b3cff076400464e9f27399487e15014",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483070",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX THIÊN LỘC",
+        "Họ và tên người sử dụng": "TRẦN THỊ QUYÊN",
+        "Mã HRM": "00027651",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H81M-H M.2",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Core(TM) i3-4170 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "580 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.19044",
+        "Office": "Microsoft Office LTSC Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, 360 Total Security",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "10:FF:E0:A3:C0:57"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "DS22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T08:11:25",
+      "updatedAt": "2026-06-11T08:11:25"
     }
   ]
 }
