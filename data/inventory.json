@@ -585,6 +585,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T01:56:55",
       "updatedAt": "2026-06-11T01:56:55"
+    },
+    {
+      "id": "e220e7b222b148949f1ffbb17465f48f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488670",
+        "Tên Bưu cục": "VHX Kỳ Xuân",
+        "Họ và tên người sử dụng": "Nguyễn Văn Chuẩn",
+        "Mã HRM": "002",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-B1INA0K",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5400 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "191 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "B4:2E:99:76:37:C7"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T01:57:35",
+      "updatedAt": "2026-06-11T01:57:35"
     }
   ]
 }
