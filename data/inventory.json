@@ -5749,6 +5749,37 @@
       ],
       "createdAt": "2026-06-11T08:11:25",
       "updatedAt": "2026-06-11T08:11:25"
+    },
+    {
+      "id": "c4156971489b47a59c0b2f4a6d88de70",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4822",
+        "Tên Xã": "TIÊN ĐIỀN",
+        "Mã Bưu cục": "484400",
+        "Tên Bưu cục": "NGHI XUÂN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THƯƠNG",
+        "Mã HRM": "00104563",
+        "Bộ phận / Phòng ban": "GDTT",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-NX-GD-111",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130113",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.144.110",
+        "MAC Address": "50:AF:73:37:97:E1"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T08:18:00",
+      "updatedAt": "2026-06-11T08:18:00"
     }
   ]
 }
