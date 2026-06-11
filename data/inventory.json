@@ -5492,6 +5492,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T04:28:35",
       "updatedAt": "2026-06-11T04:28:35"
+    },
+    {
+      "id": "ee4e75cda71244d3b3ba1d3d3f1d31c3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4862",
+        "Tên Xã": "Xã Hương Khê",
+        "Mã Bưu cục": "4862",
+        "Tên Bưu cục": "Kho quỹ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Gấm",
+        "Mã HRM": "00271259",
+        "Bộ phận / Phòng ban": "Kho quỹ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "THUQUY",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1051 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.148.29",
+        "MAC Address": "D8:5E:D3:9A:D8:23"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T07:25:31",
+      "updatedAt": "2026-06-11T07:25:31"
     }
   ]
 }
