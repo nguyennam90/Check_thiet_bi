@@ -742,6 +742,8 @@
       "id": "1a820a0c7b8d43d3b7be832bba5c3aec",
       "category": "3. Máy Tính",
       "fields": {
+        "3": "107",
+        "481120": "488570",
         "Mã BĐ Xã": "",
         "Tên Xã": "",
         "Mã Bưu cục": "",
@@ -763,11 +765,26 @@
         "Office": "",
         "Antivirus": "",
         "IP Address": "",
-        "MAC Address": ""
+        "MAC Address": "",
+        "Văn phòng Bưu Điện Tỉnh": "kỳ đồng",
+        "Nguyễn Thị Hồng Tịnh": "nguyễn thị hằng",
+        "Phòng TCKH": "vhx",
+        "TINH": "HTH-HKA-KDONG-4",
+        "Desktop": "Desktop",
+        "Dell Inc.": "Dell Inc.",
+        "OptiPlex 3040": "OptiPlex 3040",
+        "64KM8F2": "3W631H2",
+        "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "3.9 GB": "3.9 GB",
+        "238 GB": "468 GB",
+        "Microsoft Windows 10 Pro 10.0.19045": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Windows Defender": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "10.43.130.63": "192.168.1.2",
+        "18:66:DA:28:FA:3C": "48:4D:7E:DB:7C:E4"
       },
       "attachments": [],
       "createdAt": "2026-06-11T02:14:10",
-      "updatedAt": "2026-06-11T02:14:10"
+      "updatedAt": "2026-06-11T02:19:46"
     },
     {
       "id": "5c966c7004c2430fb4d3c5d1fb940ead",
@@ -799,6 +816,87 @@
       "attachments": [],
       "createdAt": "2026-06-11T02:15:06",
       "updatedAt": "2026-06-11T02:15:06"
+    },
+    {
+      "id": "fee4753097684a8191db5cfa4bc6f91c",
+      "category": "4A. Máy In Laser",
+      "fields": {
+        "3": "39",
+        "481120": "488400",
+        "VPBĐT": "Bưu cục giao dịch Kỳ Anh",
+        "lê thị thùy": "Nguyễn Thị Kim Oanh",
+        "phòng tckh": "Bưu điện xã Kỳ Xuân",
+        "Máy in laser": "Máy in laser",
+        "canonlbp226dw": "",
+        "NPZA047586": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:19:46",
+      "updatedAt": "2026-06-11T02:19:46"
+    },
+    {
+      "id": "e1ad71d68dde44509294d15d388c1f61",
+      "category": "4B. Máy In Nhiệt",
+      "fields": {
+        "3": "25",
+        "487600": "484670",
+        "Bưu cục GDTT Xã Cẩm Xuyên": "Bưu điện Xuân Lĩnh",
+        "Nguyễn Thị Lan Anh": "Trần Thị Giang",
+        "00098837": "00255533",
+        "GDTT": "Văn hóa xã",
+        "Máy in nhiệt": "Máy in nhiệt",
+        "Xprinter": "",
+        "S420BUH231060017": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:19:46",
+      "updatedAt": "2026-06-11T02:19:46"
+    },
+    {
+      "id": "ddc786d8d0144e5da825988b0f5fe44f",
+      "category": "4C. Máy Photocopy",
+      "fields": {
+        "3": "5",
+        "481110": "00255533",
+        "BCP Ha Tinh": "Văn hóa xã",
+        "Máy photocopy": "Máy photocopy",
+        "canon": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:19:46",
+      "updatedAt": "2026-06-11T02:19:46"
+    },
+    {
+      "id": "6c0ae392acc64b9380ba31102b790240",
+      "category": "5. Đầu Đọc Mã Vạch",
+      "fields": {
+        "3": "28",
+        "481690": "488570",
+        "vhx thach binh": "kỳ đồng",
+        "nguyen thi phuc": "nguyễn thị hằng",
+        "00028366": "00251009",
+        "vhx": "vhx",
+        "Đầu đọc mã vạch": "Đầu đọc mã vạch",
+        "symbol": "honey well"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:19:46",
+      "updatedAt": "2026-06-11T02:19:46"
+    },
+    {
+      "id": "c6b43a93cbc0453aa1db068f81c246ed",
+      "category": "8. Thiết Bị Khác",
+      "fields": {
+        "3": "29",
+        "481920": "00255533",
+        "KT Thach Ha": "Văn hóa xã",
+        "Nguyen Minh Nguyet": "Trần Thị Giang",
+        "Máy quét (Scanner)": "Máy quét (Scanner)",
+        "Winson": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T02:19:46",
+      "updatedAt": "2026-06-11T02:19:46"
     }
   ]
 }
