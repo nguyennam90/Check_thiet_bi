@@ -5057,6 +5057,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T03:21:21",
       "updatedAt": "2026-06-11T03:21:21"
+    },
+    {
+      "id": "7e4b584cb5214ea79adbd80570be7264",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện Xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng Bưu điện xã Can Lộc",
+        "Họ và tên người sử dụng": "Trần Thị Hải Lý",
+        "Mã HRM": "00027618",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Máy tính bàn",
+        "Loại máy": "",
+        "Hãng": "Dell",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T03:22:53",
+      "updatedAt": "2026-06-11T03:22:53"
     }
   ]
 }
