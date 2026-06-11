@@ -5286,6 +5286,43 @@
       ],
       "createdAt": "2026-06-11T03:43:58",
       "updatedAt": "2026-06-11T03:43:58"
+    },
+    {
+      "id": "03f25f02200c46e0a472c6343a93ed81",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485624",
+        "Tên Bưu cục": "485624 - VP BĐH Hương Sơn",
+        "Họ và tên người sử dụng": "Lê Thị Kim Chi",
+        "Mã HRM": "00220056",
+        "Bộ phận / Phòng ban": "Nhân Viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "446 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.146.45",
+        "MAC Address": "D8:5E:D3:97:54:B1"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T03:48:11",
+      "updatedAt": "2026-06-11T03:48:11"
     }
   ]
 }
