@@ -6252,6 +6252,48 @@
       ],
       "createdAt": "2026-06-11T10:01:46",
       "updatedAt": "2026-06-11T10:01:46"
+    },
+    {
+      "id": "308371b42ac649ff91edde08b5357031",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483420",
+        "Tên Bưu cục": "VHX ĐỒNG LỘC",
+        "Họ và tên người sử dụng": "LÊ THỊ TUYẾN",
+        "Mã HRM": "00271076",
+        "Bộ phận / Phòng ban": "VHX ĐỒNG LỘC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-DONGLOC",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LST",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "F8:ED:FC:6A:6F:50"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON-LBP2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T10:02:45",
+      "updatedAt": "2026-06-11T10:02:45"
     }
   ]
 }
