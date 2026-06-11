@@ -5560,6 +5560,37 @@
       ],
       "createdAt": "2026-06-11T04:22:08",
       "updatedAt": "2026-06-11T04:22:08"
+    },
+    {
+      "id": "dd74b5de5c9a4407bc8b56b139b541f5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Bưu cục 2 Đức Thọ",
+        "Họ và tên người sử dụng": "Phạm Thị Hoa",
+        "Mã HRM": "0027838",
+        "Bộ phận / Phòng ban": "Tổ giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-GD12",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130021",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.145.12",
+        "MAC Address": "50:AF:73:37:97:DB"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T04:28:35",
+      "updatedAt": "2026-06-11T04:28:35"
     }
   ]
 }
