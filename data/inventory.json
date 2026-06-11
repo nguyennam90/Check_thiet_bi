@@ -6473,6 +6473,48 @@
       ],
       "createdAt": "2026-06-11T10:25:56",
       "updatedAt": "2026-06-11T10:25:56"
+    },
+    {
+      "id": "dc4888a208884674956afb1dba13e8d6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Bưu cục 2 Đức Thọ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Trần Thùy",
+        "Mã HRM": "00027850",
+        "Bộ phận / Phòng ban": "Tổ Giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-J6T69JM",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "1YH0DK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.43.145.51",
+        "MAC Address": "50:9A:4C:11:09:AD"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M402dne",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Hugo",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T10:26:34",
+      "updatedAt": "2026-06-11T10:26:34"
     }
   ]
 }
