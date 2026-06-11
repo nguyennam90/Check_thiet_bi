@@ -5828,6 +5828,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T08:59:25",
       "updatedAt": "2026-06-11T08:59:25"
+    },
+    {
+      "id": "b1656138e29749f0a096ed6da2dc35d9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4806",
+        "Tên Xã": "THẠCH HÀ",
+        "Mã Bưu cục": "481900",
+        "Tên Bưu cục": "GD THẠCH HÀ",
+        "Họ và tên người sử dụng": "Lê Thị Hồng Thắm",
+        "Mã HRM": "00098928",
+        "Bộ phận / Phòng ban": "GDV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-GD100",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130918",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "120 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.219",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:00:44",
+      "updatedAt": "2026-06-11T09:00:44"
     }
   ]
 }
