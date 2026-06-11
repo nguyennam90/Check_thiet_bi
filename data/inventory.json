@@ -5870,6 +5870,43 @@
       ],
       "createdAt": "2026-06-11T08:58:36",
       "updatedAt": "2026-06-11T08:58:36"
+    },
+    {
+      "id": "9b2a9fa8e64d43a3909c3337b01661fd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483330",
+        "Tên Xã": "Xuân Lộc",
+        "Mã Bưu cục": "483330",
+        "Tên Bưu cục": "VHX Xuân Lộc",
+        "Họ và tên người sử dụng": "Trần Thị Kim Thúy",
+        "Mã HRM": "00225052",
+        "Bộ phận / Phòng ban": "VHX Xuân Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Dell",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:01:42",
+      "updatedAt": "2026-06-11T09:01:42"
     }
   ]
 }
