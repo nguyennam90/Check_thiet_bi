@@ -5828,6 +5828,48 @@
       ],
       "createdAt": "2026-06-11T08:47:05",
       "updatedAt": "2026-06-11T08:47:05"
+    },
+    {
+      "id": "aefa415d09df4f35970a7f78a96a49bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483380",
+        "Tên Xã": "quang lộc",
+        "Mã Bưu cục": "483380",
+        "Tên Bưu cục": "quang lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Liệu",
+        "Mã HRM": "00027601",
+        "Bộ phận / Phòng ban": "VHX Quang Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "hpprodesk",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T08:58:36",
+      "updatedAt": "2026-06-11T08:58:36"
     }
   ]
 }
