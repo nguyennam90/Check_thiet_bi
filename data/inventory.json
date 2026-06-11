@@ -3219,8 +3219,13 @@
       },
       "attachments": [
         {
-          "type": "photocopier",
+          "type": "laser_printer",
           "name": "Canon",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
           "serial": ""
         },
         {
@@ -3230,7 +3235,7 @@
         }
       ],
       "createdAt": "2026-06-10T08:44:34",
-      "updatedAt": "2026-06-10T08:44:34"
+      "updatedAt": "2026-06-11T06:47:04"
     },
     {
       "id": "1644e0b407244dc9ae74242aee9f4410",
