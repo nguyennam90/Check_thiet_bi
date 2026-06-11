@@ -3224,18 +3224,13 @@
           "serial": ""
         },
         {
-          "type": "photocopier",
-          "name": "",
-          "serial": ""
-        },
-        {
           "type": "scanner",
           "name": "HoneyWell",
           "serial": "17072B0AF5"
         }
       ],
       "createdAt": "2026-06-10T08:44:34",
-      "updatedAt": "2026-06-11T06:47:04"
+      "updatedAt": "2026-06-11T06:47:18"
     },
     {
       "id": "1644e0b407244dc9ae74242aee9f4410",
