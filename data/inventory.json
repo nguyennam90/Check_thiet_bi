@@ -5644,6 +5644,37 @@
       "attachments": [],
       "createdAt": "2026-06-11T07:59:28",
       "updatedAt": "2026-06-11T07:59:28"
+    },
+    {
+      "id": "b22ad0950d5b4a53adf94b67148e0037",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4814",
+        "Tên Xã": "Bưu điện xã Can Lộc",
+        "Mã Bưu cục": "482909",
+        "Tên Bưu cục": "Văn phòng Bưu Điện xã Can Lộc",
+        "Họ và tên người sử dụng": "Võ Thị Thương",
+        "Mã HRM": "00028272",
+        "Bộ phận / Phòng ban": "Giám đốc xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-GIAMDOC",
+        "Loại máy": "Laptop",
+        "Hãng": "HP",
+        "Model": "HP ProBook 440 G5",
+        "Năm sản xuất": "",
+        "Serial Number": "5CD8401NV5",
+        "CPU": "Intel(R) Core(TM) i3-8130U CPU @ 2.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.88.170",
+        "MAC Address": "7C:2A:31:F1:B0:B2"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T08:02:58",
+      "updatedAt": "2026-06-11T08:02:58"
     }
   ]
 }
