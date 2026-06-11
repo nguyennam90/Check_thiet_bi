@@ -5995,6 +5995,43 @@
       "attachments": [],
       "createdAt": "2026-06-11T09:45:15",
       "updatedAt": "2026-06-11T09:45:15"
+    },
+    {
+      "id": "236df4cba15546c9a293a2d9d0a37cac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484730",
+        "Tên Xã": "xã cổ đạm",
+        "Mã Bưu cục": "484730",
+        "Tên Bưu cục": "00027811",
+        "Họ và tên người sử dụng": "Nguyễn thị xanh",
+        "Mã HRM": "00027811",
+        "Bộ phận / Phòng ban": "Trưởng văn hóa",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "1",
+        "Loại máy": "DELL",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Cannon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-11T09:47:54",
+      "updatedAt": "2026-06-11T09:47:54"
     }
   ]
 }
