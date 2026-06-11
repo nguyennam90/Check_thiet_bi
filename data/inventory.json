@@ -5896,6 +5896,37 @@
       ],
       "createdAt": "2026-06-11T09:09:20",
       "updatedAt": "2026-06-11T09:09:20"
+    },
+    {
+      "id": "669e2faa325f47e79b6d9ee52d6241a5",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "CẨM LẠC",
+        "Tên Xã": "CẨM LẠC",
+        "Mã Bưu cục": "488180",
+        "Tên Bưu cục": "BƯU ĐIỆN VHX CẨM LẠC",
+        "Họ và tên người sử dụng": "LÊ THỊ ÁNH NGUYỆT",
+        "Mã HRM": "0002819",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-CLAC-488",
+        "Loại máy": "DeLL",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7276BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "B8:85:84:A9:1E:83"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-11T09:43:21",
+      "updatedAt": "2026-06-11T09:43:21"
     }
   ]
 }
