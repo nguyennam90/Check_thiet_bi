@@ -5059,43 +5059,6 @@
       "updatedAt": "2026-06-11T03:23:59"
     },
     {
-      "id": "d751bb5b7b4245d1a823ac9cb036dafd",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "4872",
-        "Tên Xã": "xã lộc hà",
-        "Mã Bưu cục": "482090",
-        "Tên Bưu cục": "bc thạch kim",
-        "Họ và tên người sử dụng": "phan thị chanh",
-        "Mã HRM": "00028288",
-        "Bộ phận / Phòng ban": "giao dịch viên",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "HTH-LH-KTOAN2",
-        "Loại máy": "Desktop",
-        "Hãng": "Gigabyte Technology Co., Ltd.",
-        "Model": "H310M DS2 2.0",
-        "Năm sản xuất": "",
-        "Serial Number": "Default string",
-        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "1045 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18363",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
-        "IP Address": "192.168.1.2",
-        "MAC Address": "18:C0:4D:1F:5B:CC"
-      },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-11T03:24:43",
-      "updatedAt": "2026-06-11T03:24:43"
-    },
-    {
       "id": "19da48bbbd45498a870a88c099671552",
       "category": "3. Máy Tính",
       "fields": {
