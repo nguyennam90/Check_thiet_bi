@@ -7202,6 +7202,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:58:57",
       "updatedAt": "2026-06-12T09:58:57"
+    },
+    {
+      "id": "d54a72797e644ce7b840e1e3ec770d3b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4860",
+        "Tên Xã": "YÊN HÒA",
+        "Mã Bưu cục": "487790",
+        "Tên Bưu cục": "BĐVHX CẨM HÒA",
+        "Họ và tên người sử dụng": "VÕ THỊ LÊ NA",
+        "Mã HRM": "00266531",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "WINDOWS-PC",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3520",
+        "Năm sản xuất": "",
+        "Serial Number": "JCJX554",
+        "CPU": "12th Gen Intel(R) Core(TM) i5-1235U",
+        "RAM": "15,7 GB",
+        "Ổ cứng": "477 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2024 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.18",
+        "MAC Address": "78:46:5C:D3:65:4F"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T10:00:30",
+      "updatedAt": "2026-06-12T10:00:30"
     }
   ]
 }
