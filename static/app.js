@@ -803,37 +803,6 @@ function loadClientInfoFromUrlParams() {
   return true;
 }
 
-
-async function loadClientInfoFromClipboard() {
-  try {
-    const text = await navigator.clipboard.readText();
-    if (!text) return false;
-
-    if (text.includes("hostname=") && text.includes("cpu=")) {
-      const params = new URLSearchParams(text.trim());
-      const fields = {};
-      let found = false;
-      for (const [param, fieldName] of Object.entries(URL_PARAM_MAP)) {
-        const val = params.get(param);
-        if (val) {
-          fields[fieldName] = decodeURIComponent(val);
-          found = true;
-        }
-      }
-      if (found) {
-        applyClientInventory(fields);
-        formStatus.textContent = "Đã tự động điền thông tin máy tính từ bộ nhớ tạm (Clipboard). Hãy nhập bổ sung thông tin người sử dụng và gửi phiếu.";
-        formStatus.className = "status form-status is-success";
-        updateMachineInfoBanner();
-        return true;
-      }
-    }
-  } catch (err) {
-    console.error("Không thể đọc bộ nhớ tạm:", err);
-  }
-  return false;
-}
-
 // ─── Banner cảnh báo chưa lấy thông tin máy ──────────────────────────────────
 
 function updateMachineInfoBanner() {
@@ -897,26 +866,11 @@ async function triggerBatDownload() {
     if (dlEl) dlEl.parentElement.innerHTML = `
       <strong>✅ Tải xuống hoàn tất!</strong><br>
       👇 Nhấn vào file <strong>lay_thong_tin.bat</strong> ở <strong>thanh tải xuống phía dưới trình duyệt</strong> để chạy ngay.<br>
-      Sau khi file chạy xong và báo thành công, hãy nhấn nút dưới đây để điền thông tin tự động:<br>
-      <div style="margin-top: 10px; display: flex; justify-content: center;">
-        <button type="button" id="btn-paste-clipboard" style="padding: 8px 16px; font-weight: bold; background: #28a745; color: white; border: none; border-radius: 4px; cursor: pointer; display: flex; align-items: center; gap: 8px;">
-          📋 NHẬP DỮ LIỆU ĐÃ THU THẬP
-        </button>
-      </div>
-      <small style="opacity:.75; display:block; margin-top: 8px;">
+      <small style="opacity:.75">
+        • Chrome/Edge: thanh tải xuống xuất hiện ở góc dưới bên phải ▼<br>
         • Nếu Windows hỏi xác nhận → chọn <em>"Run anyway"</em> hoặc <em>"Vẫn chạy"</em><br>
-        • Phiên bản này không bị Kaspersky chặn (không dùng iex)
+        • Kaspersky: phiên bản mới không còn bị chặn (không dùng iex)
       </small>`;
-    
-    const btnPaste = document.getElementById("btn-paste-clipboard");
-    if (btnPaste) {
-      btnPaste.addEventListener("click", async () => {
-        const success = await loadClientInfoFromClipboard();
-        if (!success) {
-          alert("Không tìm thấy dữ liệu thu thập trong bộ nhớ tạm. Vui lòng đợi file chạy xong hoặc chạy lại file .bat.");
-        }
-      });
-    }
     formStatus.className = "status form-status is-success";
   } catch (err) {
     const dlEl = document.getElementById("dl-progress");
@@ -1106,15 +1060,11 @@ importButton.addEventListener("click", importExcel);
 category.addEventListener("change", () => { renderFields(); updateMachineInfoBanner(); });
 form.addEventListener("submit", saveRecord);
 document.getElementById("btn-new").addEventListener("click", () => resetForm());
-document.getElementById("btn-local-info").addEventListener("click", async () => {
+document.getElementById("btn-local-info").addEventListener("click", () => {
   if (loadClientInfoFromUrlParams()) return;
-  if (await loadClientInfoFromClipboard()) return;
   triggerBatDownload();
 });
-document.getElementById("btn-mib-download").addEventListener("click", async () => {
-  if (await loadClientInfoFromClipboard()) return;
-  triggerBatDownload();
-});
+document.getElementById("btn-mib-download").addEventListener("click", triggerBatDownload);
 search.addEventListener("input", renderRecords);
 categoryFilter.addEventListener("change", renderRecords);
 

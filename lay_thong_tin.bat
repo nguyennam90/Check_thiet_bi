@@ -49,6 +49,4 @@ powershell -NoProfile -ExecutionPolicy Bypass -Command ^
  "Add-Type -AssemblyName System.Web;" ^
  "function E($v){if(-not $v){return ''};[System.Web.HttpUtility]::UrlEncode($v.ToString())};" ^
  "$q='hostname='+(E $env:COMPUTERNAME)+'&cpu='+(E $cpu)+'&hang='+(E $cs.Manufacturer.Trim())+'&model='+(E $cs.Model.Trim())+'&ram='+(E($ram.ToString()+' GB'))+'&disk='+(E($gb.ToString()+' GB'))+'&serial='+(E $serial)+'&os='+(E $osn)+'&ip='+(E $ip)+'&mac='+(E $mac)+'&loaiMay='+(E $type)+'&office='+(E $office)+'&antivirus='+(E($av -join ', '));" ^
- "Add-Type -AssemblyName System.Windows.Forms;" ^
- "if($q){[System.Windows.Forms.Clipboard]::SetText($q)};" ^
- "[System.Windows.Forms.MessageBox]::Show('Thu thập thông tin máy tính thành công! Dữ liệu đã được copy vào bộ nhớ tạm. Bạn hãy quay lại trình duyệt đang mở và nhấn nút [Nhập dữ liệu máy] để tự động điền.', 'VNPost Device Inventory', 0, 64);"
+ "Start-Process($u+'/?'+$q)"
