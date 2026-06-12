@@ -6749,6 +6749,43 @@
       ],
       "createdAt": "2026-06-12T07:21:33",
       "updatedAt": "2026-06-12T07:21:33"
+    },
+    {
+      "id": "3bc97221d35a49fda8c8888bfa6ba6b7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4862",
+        "Tên Xã": "Hương Khê",
+        "Mã Bưu cục": "486900",
+        "Tên Bưu cục": "Hương Khê",
+        "Họ và tên người sử dụng": "Phan thị bảo yến",
+        "Mã HRM": "00028073",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HK-KTOAN",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Precision Tower 3420",
+        "Năm sản xuất": "",
+        "Serial Number": "39DP0R2",
+        "CPU": "Intel(R) Core(TM) i5-6500 CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.148.80",
+        "MAC Address": "54:BF:64:6D:6B:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:04:29",
+      "updatedAt": "2026-06-12T08:04:29"
     }
   ]
 }
