@@ -6875,6 +6875,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:20:32",
       "updatedAt": "2026-06-12T08:20:32"
+    },
+    {
+      "id": "867aaaac7049409982b074ecb610c9bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "483481",
+        "Tên Xã": "Phù lưu",
+        "Mã Bưu cục": "483481",
+        "Tên Bưu cục": "Phù lưu",
+        "Họ và tên người sử dụng": "Lâm thị lan",
+        "Mã HRM": "00028306",
+        "Bộ phận / Phòng ban": "Nv bưu cục",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "Hp",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:22:53",
+      "updatedAt": "2026-06-12T08:22:53"
     }
   ]
 }
