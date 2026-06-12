@@ -6802,6 +6802,48 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:14:40",
       "updatedAt": "2026-06-12T08:14:40"
+    },
+    {
+      "id": "14a9d7a8f7224f8c907c6b743d489999",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "488690",
+        "Tên Bưu cục": "BĐVHX Kỳ Bắc",
+        "Họ và tên người sử dụng": "Trần Thị Cúc",
+        "Mã HRM": "00214326",
+        "Bộ phận / Phòng ban": "Bưu điện xã Kỳ Xuân",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TXKA-KBAC1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3VQ91H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "48:4D:7E:DB:7E:69"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:16:59",
+      "updatedAt": "2026-06-12T08:16:59"
     }
   ]
 }
