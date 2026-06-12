@@ -6906,6 +6906,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T08:22:53",
       "updatedAt": "2026-06-12T08:22:53"
+    },
+    {
+      "id": "b8c9e0653e974697b7304fd9b9c1ef43",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484585",
+        "Tên Xã": "xã nghi xuân",
+        "Mã Bưu cục": "484585",
+        "Tên Bưu cục": "xuân an",
+        "Họ và tên người sử dụng": "Phan Thị Loan",
+        "Mã HRM": "00109140",
+        "Bộ phận / Phòng ban": "xuân an",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.59.29",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:26:30",
+      "updatedAt": "2026-06-12T08:26:30"
     }
   ]
 }
