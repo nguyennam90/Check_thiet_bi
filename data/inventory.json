@@ -7152,6 +7152,48 @@
       ],
       "createdAt": "2026-06-12T08:33:10",
       "updatedAt": "2026-06-12T08:33:10"
+    },
+    {
+      "id": "05f1ff07d47b4695ab2c68b56f06de62",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "487310",
+        "Tên Xã": "hương xuân",
+        "Mã Bưu cục": "486920",
+        "Tên Bưu cục": "bưu điện xã hương khê",
+        "Họ và tên người sử dụng": "phạm thị phượng",
+        "Mã HRM": "00231441",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "487310- huong xuân",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B20JH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.19",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra-ds22",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:35:05",
+      "updatedAt": "2026-06-12T08:35:05"
     }
   ]
 }
