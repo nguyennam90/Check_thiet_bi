@@ -6844,6 +6844,37 @@
       ],
       "createdAt": "2026-06-12T08:16:59",
       "updatedAt": "2026-06-12T08:16:59"
+    },
+    {
+      "id": "8b26df2c967c413aba44df7585632684",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "4813",
+        "Tên Bưu cục": "BƯU ĐIỆN XÃ MAI PHỤ",
+        "Họ và tên người sử dụng": "HOÀNG BẢO NGỌC",
+        "Mã HRM": "00028285",
+        "Bộ phận / Phòng ban": "GĐX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-LOCHA",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP 280 G3 MT",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE7374BFB",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "40:B0:34:19:F7:75"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:20:32",
+      "updatedAt": "2026-06-12T08:20:32"
     }
   ]
 }
