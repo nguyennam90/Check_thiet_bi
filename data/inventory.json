@@ -7264,6 +7264,43 @@
       "attachments": [],
       "createdAt": "2026-06-12T10:02:17",
       "updatedAt": "2026-06-12T10:02:17"
+    },
+    {
+      "id": "3a0163b0361e4cc4b5d56cd4c984c0c7",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "Bưu điện phường Trần Phú",
+        "Họ và tên người sử dụng": "Lê Ánh Dương",
+        "Mã HRM": "00027600",
+        "Bộ phận / Phòng ban": "Bưu điện Phường Trần Phú",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "NEC",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Máy in HP",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T10:21:48",
+      "updatedAt": "2026-06-12T10:21:48"
     }
   ]
 }
