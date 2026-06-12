@@ -6734,6 +6734,43 @@
       ],
       "createdAt": "2026-06-12T08:13:10",
       "updatedAt": "2026-06-12T08:13:10"
+    },
+    {
+      "id": "c55454005d4c46c4932ed725c78bccac",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4874",
+        "Tên Xã": "đức thịnh",
+        "Mã Bưu cục": "485320_lanh",
+        "Tên Bưu cục": "bưu cục chợ giấy",
+        "Họ và tên người sử dụng": "phan thị lành",
+        "Mã HRM": "00266582",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-CG485320",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-7100 CPU @ 3.90GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "113 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "88:D7:F6:E0:B4:D9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-12T08:14:11",
+      "updatedAt": "2026-06-12T08:14:11"
     }
   ]
 }
