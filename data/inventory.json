@@ -5914,48 +5914,6 @@
       "updatedAt": "2026-06-11T09:51:15"
     },
     {
-      "id": "ac79a5b602f14902bf7cd09a0175a1b5",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "482340",
-        "Tên Xã": "THẠCH LIÊN",
-        "Mã Bưu cục": "482340",
-        "Tên Bưu cục": "THẠCH LIÊN",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ VIỆT",
-        "Mã HRM": "0027737",
-        "Bộ phận / Phòng ban": "VHX",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DELL",
-        "Loại máy": "",
-        "Hãng": "DELL",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "DELL",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-11T09:52:42",
-      "updatedAt": "2026-06-11T09:52:42"
-    },
-    {
       "id": "daca6d0bab0545208ee1f75da3c7e56a",
       "category": "3. Máy Tính",
       "fields": {
