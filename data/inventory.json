@@ -1916,53 +1916,6 @@
       "updatedAt": "2026-06-10T07:58:01"
     },
     {
-      "id": "a0697b6983b7467688c601699c6b10ab",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "483710",
-        "Tên Bưu cục": "Hồng Lĩnh",
-        "Họ và tên người sử dụng": "Nghiêm Thị Phương Chi",
-        "Mã HRM": "00027781",
-        "Bộ phận / Phòng ban": "bcp Hồng Lĩnh",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "dell",
-        "Loại máy": "",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "canon",
-          "serial": ""
-        },
-        {
-          "type": "thermal_printer",
-          "name": "",
-          "serial": ""
-        },
-        {
-          "type": "barcode_reader",
-          "name": "winson",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-10T07:59:02",
-      "updatedAt": "2026-06-10T07:59:02"
-    },
-    {
       "id": "922879653ff846b78cbd294418b0c889",
       "category": "3. Máy Tính",
       "fields": {
