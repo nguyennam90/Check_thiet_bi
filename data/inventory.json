@@ -7256,6 +7256,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:15:16",
       "updatedAt": "2026-06-12T09:15:16"
+    },
+    {
+      "id": "116e5706de244a91a159ced843a832e4",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483360",
+        "Tên Bưu cục": "VHX Tiến Lộc",
+        "Họ và tên người sử dụng": "Trần Thị Ngân",
+        "Mã HRM": "00027865",
+        "Bộ phận / Phòng ban": "VHX Tiến Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-TIENLOC4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3W641H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.60",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:16:58",
+      "updatedAt": "2026-06-12T09:16:58"
     }
   ]
 }
