@@ -7318,6 +7318,37 @@
       "attachments": [],
       "createdAt": "2026-06-12T09:30:03",
       "updatedAt": "2026-06-12T09:30:03"
+    },
+    {
+      "id": "22087cfdb055468295e8f19af524a75a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484750",
+        "Tên Xã": "CƯƠNG GIÁN",
+        "Mã Bưu cục": "484750",
+        "Tên Bưu cục": "BC CƯƠNG GIÁN",
+        "Họ và tên người sử dụng": "TRƯƠNG THỊ NHUNG",
+        "Mã HRM": "00109468",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-KEIFQ37",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7B66BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.13",
+        "MAC Address": "B8:85:84:AB:17:BD"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T09:41:08",
+      "updatedAt": "2026-06-12T09:41:08"
     }
   ]
 }
