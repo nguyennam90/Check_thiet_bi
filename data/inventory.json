@@ -6771,6 +6771,37 @@
       ],
       "createdAt": "2026-06-12T08:14:11",
       "updatedAt": "2026-06-12T08:14:11"
+    },
+    {
+      "id": "73bc057baeef411d80c580dacb019e47",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "4854",
+        "Tên Bưu cục": "Bưu điện xã Cẩm Xuyên",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hiền",
+        "Mã HRM": "00098921",
+        "Bộ phận / Phòng ban": "Kế toán",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CX-VPH-11",
+        "Loại máy": "Desktop",
+        "Hãng": "System manufacturer",
+        "Model": "System Product Name",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "126 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.149.11",
+        "MAC Address": "E8:9C:25:3D:25:93"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-12T08:14:40",
+      "updatedAt": "2026-06-12T08:14:40"
     }
   ]
 }
