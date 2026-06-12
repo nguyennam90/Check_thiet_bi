@@ -2152,43 +2152,6 @@
       "updatedAt": "2026-06-10T08:14:48"
     },
     {
-      "id": "488d5841de3044a194a1e32993f03fca",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "483010",
-        "Tên Bưu cục": "Bưu Điện VHX Tân Lộc",
-        "Họ và tên người sử dụng": "Nguyễn Thị Cẩm",
-        "Mã HRM": "0008299",
-        "Bộ phận / Phòng ban": "vhx",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "máy tính bàn",
-        "Loại máy": "DELL",
-        "Hãng": "",
-        "Model": "",
-        "Năm sản xuất": "",
-        "Serial Number": "",
-        "CPU": "",
-        "RAM": "",
-        "Ổ cứng": "",
-        "Hệ điều hành": "",
-        "Office": "",
-        "Antivirus": "",
-        "IP Address": "",
-        "MAC Address": ""
-      },
-      "attachments": [
-        {
-          "type": "barcode_reader",
-          "name": "",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-10T08:15:32",
-      "updatedAt": "2026-06-10T08:15:32"
-    },
-    {
       "id": "83ff2c00fb494fc6b950cdeb09e6f3d2",
       "category": "3. Máy Tính",
       "fields": {
