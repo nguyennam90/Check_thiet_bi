@@ -7411,6 +7411,43 @@
       ],
       "createdAt": "2026-06-13T03:13:28",
       "updatedAt": "2026-06-13T03:13:28"
+    },
+    {
+      "id": "450adab0c2d04f7f98799223a12ef88b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Đức Thọ",
+        "Họ và tên người sử dụng": "Lê Thị Quỳnh Oanh",
+        "Mã HRM": "00027847",
+        "Bộ phận / Phòng ban": "Kế toán địa bàn",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "484918-KTDTO",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "B0BHH62",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.18362",
+        "Office": "Microsoft Office LTSC Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.145.139",
+        "MAC Address": "B0:83:FE:BE:57:36"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon MF240",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T03:21:09",
+      "updatedAt": "2026-06-13T03:21:09"
     }
   ]
 }
