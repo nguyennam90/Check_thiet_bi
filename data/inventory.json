@@ -7448,6 +7448,43 @@
       ],
       "createdAt": "2026-06-13T03:21:09",
       "updatedAt": "2026-06-13T03:21:09"
+    },
+    {
+      "id": "e6733ba69de740e898eaa322edb43d45",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Đức Thọ",
+        "Họ và tên người sử dụng": "Trần Thanh Huyền",
+        "Mã HRM": "00027841",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-N2T0A96",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "27VXCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender",
+        "IP Address": "10.43.145.50",
+        "MAC Address": "50:9A:4C:11:08:B6"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-13T03:35:03",
+      "updatedAt": "2026-06-13T03:35:03"
     }
   ]
 }
