@@ -9490,6 +9490,53 @@
       ],
       "createdAt": "2026-06-15T03:52:15",
       "updatedAt": "2026-06-15T03:52:15"
+    },
+    {
+      "id": "9be8e305e131462ba0393063ecaf176a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4838",
+        "Tên Xã": "Vũ Quang",
+        "Mã Bưu cục": "486600",
+        "Tên Bưu cục": "BC 2 Vũ Quang",
+        "Họ và tên người sử dụng": "Vũ Thị Xoan",
+        "Mã HRM": "00028043",
+        "Bộ phận / Phòng ban": "KSV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-VQ-GD50",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "72F8BS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19042",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.12",
+        "MAC Address": "B8:85:84:AB:06:B5"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M402DNE",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "PC43D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:59:44",
+      "updatedAt": "2026-06-15T03:59:44"
     }
   ]
 }
