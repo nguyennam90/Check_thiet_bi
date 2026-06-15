@@ -8397,6 +8397,48 @@
       ],
       "createdAt": "2026-06-15T02:22:54",
       "updatedAt": "2026-06-15T02:22:54"
+    },
+    {
+      "id": "15b394b96d4c48eabea986616471e21f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "Bưu cục vận hành Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Phạm Lê Hữu Tình",
+        "Mã HRM": "00231439",
+        "Bộ phận / Phòng ban": "Khai thác Hồng Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HLKT48",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "7G1FBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.48",
+        "MAC Address": "B8:85:84:AB:1B:2B"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:25:18",
+      "updatedAt": "2026-06-15T02:25:18"
     }
   ]
 }
