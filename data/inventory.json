@@ -10135,6 +10135,68 @@
       ],
       "createdAt": "2026-06-15T09:59:10",
       "updatedAt": "2026-06-15T09:59:10"
+    },
+    {
+      "id": "f6defbce372a40d8b7e08640999afb55",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "XA SƠN TRUNG",
+        "Tên Xã": "CAO THỊ HƯƠNG LAN",
+        "Mã Bưu cục": "485641",
+        "Tên Bưu cục": "BDVHX SƠN TRUNG",
+        "Họ và tên người sử dụng": "CAO THỊ HƯƠNG LAN",
+        "Mã HRM": "00028026",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "00028026",
+        "Tên máy (Hostname)": "DESKTOP-FFLPKB5",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:07:40",
+      "updatedAt": "2026-06-15T10:07:40"
     }
   ]
 }
