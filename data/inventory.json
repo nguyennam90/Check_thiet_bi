@@ -7507,48 +7507,6 @@
       "updatedAt": "2026-06-14T11:14:40"
     },
     {
-      "id": "f2d40fe3b171417ab7fd1584d5e43b7b",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "rạch kiến",
-        "Mã Bưu cục": "852830",
-        "Tên Bưu cục": "vhx long trạch",
-        "Họ và tên người sử dụng": "trương thị thuỳ dung",
-        "Mã HRM": "00243443",
-        "Bộ phận / Phòng ban": "nhân viên vhx",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ND2EK9O",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 5060",
-        "Năm sản xuất": "",
-        "Serial Number": "B44P8T2",
-        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
-        "RAM": "3.8 GB",
-        "Ổ cứng": "121 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Home Single Language 10.0.19045",
-        "Office": "Microsoft Office Office 64-bit Components 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.2",
-        "MAC Address": "B8:85:84:AF:72:3B"
-      },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP-LASER JET PRO",
-          "serial": "M201dw"
-        },
-        {
-          "type": "barcode_reader",
-          "name": "zebra",
-          "serial": "DS22"
-        }
-      ],
-      "createdAt": "2026-06-14T23:15:44",
-      "updatedAt": "2026-06-14T23:15:44"
-    },
-    {
       "id": "0dd811cfda8745218d38a90abd2e2b6f",
       "category": "3. Máy Tính",
       "fields": {
