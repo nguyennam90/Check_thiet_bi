@@ -9359,6 +9359,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T03:31:01",
       "updatedAt": "2026-06-15T03:31:01"
+    },
+    {
+      "id": "e1fea1bb46de469d8b2b3581d12787bb",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4830",
+        "Tên Xã": "Đức Minh",
+        "Mã Bưu cục": "484938",
+        "Tên Bưu cục": "VHX Liên Minh",
+        "Họ và tên người sử dụng": "Trần Thị Vy",
+        "Mã HRM": "00106306",
+        "Bộ phận / Phòng ban": "BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-LM484938",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490QZ0",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.59.51",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201DW",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Antect",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:37:28",
+      "updatedAt": "2026-06-15T03:37:28"
     }
   ]
 }
