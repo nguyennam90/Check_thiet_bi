@@ -7806,6 +7806,68 @@
       "attachments": [],
       "createdAt": "2026-06-15T01:51:09",
       "updatedAt": "2026-06-15T01:51:09"
+    },
+    {
+      "id": "4b21e2184dc14accbc6b65fcbf625ade",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483281",
+        "Tên Bưu cục": "vhx gia hah",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ Ý",
+        "Mã HRM": "00027723",
+        "Bộ phận / Phòng ban": "nhân viên văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-118A4V7",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "644H8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "353 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Avast Antivirus",
+        "IP Address": "10.200.58.84",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T01:58:10",
+      "updatedAt": "2026-06-15T01:58:10"
     }
   ]
 }
