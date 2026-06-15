@@ -9002,6 +9002,43 @@
       ],
       "createdAt": "2026-06-15T02:58:08",
       "updatedAt": "2026-06-15T02:58:08"
+    },
+    {
+      "id": "b83f57cb32ac438493c8f971a349c0ea",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "GIA HANH",
+        "Mã Bưu cục": "45313",
+        "Tên Bưu cục": "THANH LỘC",
+        "Họ và tên người sử dụng": "LÊ THỊ MINH LÝ",
+        "Mã HRM": "002193",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "483130-THANHLOC",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "641L8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "467 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "18:66:DA:28:CA:21"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:59:28",
+      "updatedAt": "2026-06-15T02:59:28"
     }
   ]
 }
