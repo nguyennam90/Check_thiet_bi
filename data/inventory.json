@@ -9418,6 +9418,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T07:56:45",
       "updatedAt": "2026-06-15T07:56:45"
+    },
+    {
+      "id": "cdd136073ab04970b79b2253d71aabdf",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484917",
+        "Tên Bưu cục": "BC KHL",
+        "Họ và tên người sử dụng": "Lê Minh Hải",
+        "Mã HRM": "00027873",
+        "Bộ phận / Phòng ban": "KD BCCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "484917-KHL15",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "644G8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "367 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.43.145.15",
+        "MAC Address": "18:66:DA:28:7E:FF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zbra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:02:53",
+      "updatedAt": "2026-06-15T08:02:53"
     }
   ]
 }
