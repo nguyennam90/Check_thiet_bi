@@ -8866,6 +8866,43 @@
       ],
       "createdAt": "2026-06-15T02:39:22",
       "updatedAt": "2026-06-15T02:39:22"
+    },
+    {
+      "id": "d5fdfbb2d0af419dba03e417aefb87dc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "485100",
+        "Tên Bưu cục": "VHX Đức Yên",
+        "Họ và tên người sử dụng": "Phùng Thị Duyên",
+        "Mã HRM": "00027941",
+        "Bộ phận / Phòng ban": "BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "485100-DUCYEN",
+        "Loại máy": "Desktop",
+        "Hãng": "ASUS",
+        "Model": "All Series",
+        "Năm sản xuất": "",
+        "Serial Number": "System Serial Number",
+        "CPU": "Intel(R) Pentium(R) CPU G3250 @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "93 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.49",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201DW",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:40:44",
+      "updatedAt": "2026-06-15T02:40:44"
     }
   ]
 }
