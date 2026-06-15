@@ -10193,6 +10193,48 @@
       ],
       "createdAt": "2026-06-15T10:16:09",
       "updatedAt": "2026-06-15T10:16:09"
+    },
+    {
+      "id": "5309dd8449f54a88b9a5278abfe388be",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "484121",
+        "Tên Xã": "phường bắc hồng lĩnh",
+        "Mã Bưu cục": "484121",
+        "Tên Bưu cục": "bưu điện vhx đức thuận",
+        "Họ và tên người sử dụng": "nguyễn thị vân anh",
+        "Mã HRM": "00103339",
+        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "máy tính bàn",
+        "Loại máy": "hp",
+        "Hãng": "hp",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "464 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.200.58.233",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "ds22"
+        }
+      ],
+      "createdAt": "2026-06-15T10:45:48",
+      "updatedAt": "2026-06-15T10:45:48"
     }
   ]
 }
