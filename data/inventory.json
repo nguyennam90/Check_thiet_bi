@@ -9327,35 +9327,35 @@
       "updatedAt": "2026-06-15T05:27:18"
     },
     {
-      "id": "0a96cc48337842e9b173eba027b7b7de",
+      "id": "b6f79309c4904a1d8653ab70e55f6620",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "483260",
-        "Tên Bưu cục": "VHX PHÚ LỘC",
-        "Họ và tên người sử dụng": "TRẦN THỊ HẢI",
-        "Mã HRM": "00218766",
-        "Bộ phận / Phòng ban": "VHX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "64DK8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "113 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
         "Office": "",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.2",
-        "MAC Address": "18:66:DA:28:F9:46"
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-15T07:23:01",
-      "updatedAt": "2026-06-15T07:23:01"
+      "createdAt": "2026-06-15T07:23:03",
+      "updatedAt": "2026-06-15T07:23:03"
     }
   ]
 }
