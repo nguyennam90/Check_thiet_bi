@@ -9841,6 +9841,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:54:09",
       "updatedAt": "2026-06-15T08:54:09"
+    },
+    {
+      "id": "36f1e2472b8c40b7b97e42cc980bd43f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485850",
+        "Tên Bưu cục": "485850",
+        "Họ và tên người sử dụng": "TRẦN THỊ THẢO",
+        "Mã HRM": "00028034",
+        "Bộ phận / Phòng ban": "NV",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-SHOA",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64VM8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.5",
+        "MAC Address": "18:66:DA:28:D6:EA"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:55:40",
+      "updatedAt": "2026-06-15T08:55:40"
     }
   ]
 }
