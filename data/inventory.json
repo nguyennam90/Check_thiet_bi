@@ -9568,6 +9568,53 @@
       ],
       "createdAt": "2026-06-15T04:03:16",
       "updatedAt": "2026-06-15T04:03:16"
+    },
+    {
+      "id": "ebff75cce1664e5eb15fb273f1cc76e9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4838",
+        "Tên Xã": "Vũ Quang",
+        "Mã Bưu cục": "486600",
+        "Tên Bưu cục": "BC2",
+        "Họ và tên người sử dụng": "Nguyễn Thị Phương",
+        "Mã HRM": "00028041",
+        "Bộ phận / Phòng ban": "Giao dịch viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LPB-VUQUANG",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821142117",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "119 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Trellix Endpoint Security, Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.25",
+        "MAC Address": "50:AF:73:37:9D:55"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "HP G3110",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:04:13",
+      "updatedAt": "2026-06-15T04:04:13"
     }
   ]
 }
