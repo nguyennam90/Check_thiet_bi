@@ -9742,6 +9742,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:47:46",
       "updatedAt": "2026-06-15T08:47:46"
+    },
+    {
+      "id": "f111073124df495ebfcd48b3dbf28243",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485970",
+        "Tên Bưu cục": "VHX SƠN GIANG",
+        "Họ và tên người sử dụng": "ĐOÀN THỊ NGÂN",
+        "Mã HRM": "00253066",
+        "Bộ phận / Phòng ban": "VĂN HÓA XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-SONGIANG-48",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LJG",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.7",
+        "MAC Address": "F8:ED:FC:6A:6F:E4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "pro M203dn",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:48:25",
+      "updatedAt": "2026-06-15T08:48:25"
     }
   ]
 }
