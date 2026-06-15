@@ -9883,6 +9883,37 @@
       ],
       "createdAt": "2026-06-15T08:55:40",
       "updatedAt": "2026-06-15T08:55:40"
+    },
+    {
+      "id": "8c885fcde3f84e35a6cc474538f2a6c6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "BĐX SƠN GIANG",
+        "Mã Bưu cục": "486090",
+        "Tên Bưu cục": "BĐVHX Sơn Diệm",
+        "Họ và tên người sử dụng": "Nguyễn Thị Sang",
+        "Mã HRM": "00265334",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-SDIEM1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "78WDBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.95",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T09:19:18",
+      "updatedAt": "2026-06-15T09:19:18"
     }
   ]
 }
