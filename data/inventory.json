@@ -8323,6 +8323,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:19:47",
       "updatedAt": "2026-06-15T02:19:47"
+    },
+    {
+      "id": "c5e12f8f63e94f95ad78f2e70593fe4a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "Bưu cục vận hành Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Lê Thị Thanh Hiền",
+        "Mã HRM": "0027757",
+        "Bộ phận / Phòng ban": "Khai thác Hồng Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-NX-KT20",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "79VBBS2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.143.153",
+        "MAC Address": "B8:85:84:AB:19:88"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:19:52",
+      "updatedAt": "2026-06-15T02:19:52"
     }
   ]
 }
