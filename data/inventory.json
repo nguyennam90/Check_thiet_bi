@@ -8003,6 +8003,37 @@
       ],
       "createdAt": "2026-06-15T02:06:23",
       "updatedAt": "2026-06-15T02:06:23"
+    },
+    {
+      "id": "5c2955e8310c49dea2042cf88e64c583",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Trường lưu",
+        "Mã Bưu cục": "483220",
+        "Tên Bưu cục": "song lộc",
+        "Họ và tên người sử dụng": "Trương Thị Hoàng Yến",
+        "Mã HRM": "00027606",
+        "Bộ phận / Phòng ban": "GD XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221S5",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.8",
+        "MAC Address": "10:B6:76:9E:21:74"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:09:13",
+      "updatedAt": "2026-06-15T02:09:13"
     }
   ]
 }
