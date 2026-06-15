@@ -3527,48 +3527,6 @@
       "updatedAt": "2026-06-10T09:07:06"
     },
     {
-      "id": "ec7d19bf35c34d3fa79e7fcd56ef8115",
-      "category": "3. Máy Tính",
-      "fields": {
-        "Mã BĐ Xã": "",
-        "Tên Xã": "",
-        "Mã Bưu cục": "481470",
-        "Tên Bưu cục": "KHL Ha Tinh",
-        "Họ và tên người sử dụng": "KHL Ha Tinh",
-        "Mã HRM": "481470",
-        "Bộ phận / Phòng ban": "KHL Ha Tinh",
-        "Mã vật tư": "",
-        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
-        "Năm sản xuất": "",
-        "Serial Number": "BBSH862",
-        "CPU": "Intel(R) Core(TM) i3-4160T CPU @ 3.10GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "466 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "",
-        "Antivirus": "Windows Defender",
-        "IP Address": "10.43.130.213",
-        "MAC Address": "64:00:6A:07:79:C8"
-      },
-      "attachments": [
-        {
-          "type": "thermal_printer",
-          "name": "ZEBRA ZD620",
-          "serial": "d3j204205214"
-        },
-        {
-          "type": "scanner",
-          "name": "ZEBRA DS22",
-          "serial": "18155523400131"
-        }
-      ],
-      "createdAt": "2026-06-10T09:10:18",
-      "updatedAt": "2026-06-10T09:10:18"
-    },
-    {
       "id": "ccd47a983848420ba22c84a1ed2a0da9",
       "category": "3. Máy Tính",
       "fields": {
