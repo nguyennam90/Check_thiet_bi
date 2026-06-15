@@ -9460,6 +9460,48 @@
       ],
       "createdAt": "2026-06-15T08:02:53",
       "updatedAt": "2026-06-15T08:02:53"
+    },
+    {
+      "id": "d5aa55090a3b4d8596f9fe9a32712268",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483170",
+        "Tên Bưu cục": "vhx yên lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Vinh",
+        "Mã HRM": "00027661",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3650",
+        "Năm sản xuất": "",
+        "Serial Number": "8VH81H2",
+        "CPU": "Intel(R) Core(TM) i5-6500T CPU @ 2.50GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "48:4D:7E:B0:2A:12"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:02:05",
+      "updatedAt": "2026-06-15T08:02:05"
     }
   ]
 }
