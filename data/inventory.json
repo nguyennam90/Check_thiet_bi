@@ -8905,35 +8905,35 @@
       "updatedAt": "2026-06-15T02:40:44"
     },
     {
-      "id": "bc4aa5fdb99d40b89d583d88c55cc612",
+      "id": "832d3e52bdce45bfa3a66685925624e8",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "484570",
-        "Tên Bưu cục": "GIA  LÁCH",
-        "Họ và tên người sử dụng": "TRẦN THỊ LINH",
-        "Mã HRM": "00027779",
-        "Bộ phận / Phòng ban": "GDV BC GIA LÁCH",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "GD2",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3020M",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "H8WBH32",
-        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
-        "RAM": "7.9 GB",
-        "Ổ cứng": "479 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "192.168.1.111",
-        "MAC Address": "F8:BC:12:A6:15:58"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
       "attachments": [],
-      "createdAt": "2026-06-15T02:52:54",
-      "updatedAt": "2026-06-15T02:52:54"
+      "createdAt": "2026-06-15T02:52:56",
+      "updatedAt": "2026-06-15T02:52:56"
     }
   ]
 }
