@@ -9601,6 +9601,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T08:31:01",
       "updatedAt": "2026-06-15T08:31:01"
+    },
+    {
+      "id": "7747272e80584877a1cd1d997fbfb7a2",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "481930",
+        "Tên Xã": "thạch khê",
+        "Mã Bưu cục": "481930",
+        "Tên Bưu cục": "chợ mới",
+        "Họ và tên người sử dụng": "nguyên  thị hiền",
+        "Mã HRM": "00028518",
+        "Bộ phận / Phòng ban": "gdv",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "hỏng",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T08:36:31",
+      "updatedAt": "2026-06-15T08:36:31"
     }
   ]
 }
