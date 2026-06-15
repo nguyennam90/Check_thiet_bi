@@ -9358,41 +9358,35 @@
       "updatedAt": "2026-06-15T07:23:03"
     },
     {
-      "id": "df9e81ee9d0f47a899f850548943074e",
+      "id": "38a1fcf5074745f28b8fcb01ac7f6c62",
       "category": "3. Máy Tính",
       "fields": {
         "Mã BĐ Xã": "",
         "Tên Xã": "",
-        "Mã Bưu cục": "484080",
-        "Tên Bưu cục": "bđvhx trung lương",
-        "Họ và tên người sử dụng": "NGUYỄN THỊ HUYỀN",
-        "Mã HRM": "00027770",
-        "Bộ phận / Phòng ban": "NHÂN VIÊN  BĐVHX",
+        "Mã Bưu cục": "",
+        "Tên Bưu cục": "",
+        "Họ và tên người sử dụng": "",
+        "Mã HRM": "",
+        "Bộ phận / Phòng ban": "",
         "Mã vật tư": "",
-        "Tên máy (Hostname)": "HL-TL484080",
-        "Loại máy": "Desktop",
-        "Hãng": "Dell Inc.",
-        "Model": "OptiPlex 3040",
+        "Tên máy (Hostname)": "",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
         "Năm sản xuất": "",
-        "Serial Number": "65CG8F2",
-        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
-        "RAM": "3.9 GB",
-        "Ổ cứng": "466 GB",
-        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
-        "Office": "Microsoft Office Professional Plus 2010",
-        "Antivirus": "Windows Defender, FortiClient AntiVirus",
-        "IP Address": "10.200.58.230",
-        "MAC Address": "00:09:0F:AA:00:01"
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
       },
-      "attachments": [
-        {
-          "type": "laser_printer",
-          "name": "HP",
-          "serial": ""
-        }
-      ],
-      "createdAt": "2026-06-15T07:53:59",
-      "updatedAt": "2026-06-15T07:53:59"
+      "attachments": [],
+      "createdAt": "2026-06-15T07:54:01",
+      "updatedAt": "2026-06-15T07:54:01"
     }
   ]
 }
