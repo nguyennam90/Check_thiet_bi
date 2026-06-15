@@ -9155,6 +9155,48 @@
       ],
       "createdAt": "2026-06-15T03:04:58",
       "updatedAt": "2026-06-15T03:04:58"
+    },
+    {
+      "id": "2bd7bc54b9a74323a981a2576e9f17fc",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481990",
+        "Tên Bưu cục": "BC Thạch Hà",
+        "Họ và tên người sử dụng": "Lê Thị Hồng",
+        "Mã HRM": "00027603",
+        "Bộ phận / Phòng ban": "BCP Thạch Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TH-BCP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132SQ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.2.101",
+        "MAC Address": "38:22:E2:18:85:6B"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Zebra DS22",
+          "serial": "1815523400488"
+        }
+      ],
+      "createdAt": "2026-06-15T03:09:12",
+      "updatedAt": "2026-06-15T03:09:12"
     }
   ]
 }
