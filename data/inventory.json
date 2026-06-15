@@ -9406,6 +9406,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T03:41:24",
       "updatedAt": "2026-06-15T03:41:24"
+    },
+    {
+      "id": "a886f54db0bd4bee8881324aeed442d1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485600",
+        "Tên Bưu cục": "HƯƠNG SƠN",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ THU HƯƠNG",
+        "Mã HRM": "00028046",
+        "Bộ phận / Phòng ban": "GIAO DỊCH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-GD11",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821140466",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.43.146.11",
+        "MAC Address": "50:AF:73:37:9F:72"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:50:23",
+      "updatedAt": "2026-06-15T03:50:23"
     }
   ]
 }
