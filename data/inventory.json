@@ -7682,6 +7682,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T01:39:07",
       "updatedAt": "2026-06-15T01:39:07"
+    },
+    {
+      "id": "976e656a7a5042d89d3948da0c694e66",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484900",
+        "Tên Bưu cục": "Đức Thọ",
+        "Họ và tên người sử dụng": "Trần Thị Thu Hiền",
+        "Mã HRM": "00270337",
+        "Bộ phận / Phòng ban": "KHL",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-EDP10UP",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G4 DM (TAA)",
+        "Năm sản xuất": "",
+        "Serial Number": "2UA90422SN",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "181 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.145.191",
+        "MAC Address": "E4:E7:49:3B:AB:94"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T01:47:48",
+      "updatedAt": "2026-06-15T01:47:48"
     }
   ]
 }
