@@ -9328,6 +9328,37 @@
       ],
       "createdAt": "2026-06-15T03:29:08",
       "updatedAt": "2026-06-15T03:29:08"
+    },
+    {
+      "id": "0af66cb94476471a857a972ad93d2795",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Hương Sơn",
+        "Tên Xã": "Hương Sơn",
+        "Mã Bưu cục": "485623",
+        "Tên Bưu cục": "Bưu cục KHL",
+        "Họ và tên người sử dụng": "nguyễn thị thắm",
+        "Mã HRM": "00248607",
+        "Bộ phận / Phòng ban": "khách hàng lớn,PTI,AAA,bảo trợ,NCC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-KTCHI",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H510M H",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "447 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19044",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.146.111",
+        "MAC Address": "D8:5E:D3:97:55:22"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T03:31:01",
+      "updatedAt": "2026-06-15T03:31:01"
     }
   ]
 }
