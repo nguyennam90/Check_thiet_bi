@@ -9197,6 +9197,53 @@
       ],
       "createdAt": "2026-06-15T03:09:12",
       "updatedAt": "2026-06-15T03:09:12"
+    },
+    {
+      "id": "747fa06c568d4ec3954a19bb95ac8673",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "485600",
+        "Tên Bưu cục": "Hương Sơn",
+        "Họ và tên người sử dụng": "Hồ Thị Quỳnh Trang",
+        "Mã HRM": "00027970",
+        "Bộ phận / Phòng ban": "Giao Dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-HSGD10",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821130915",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "121 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.86",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:18:53",
+      "updatedAt": "2026-06-15T03:18:53"
     }
   ]
 }
