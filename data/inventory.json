@@ -7775,6 +7775,37 @@
       ],
       "createdAt": "2026-06-15T01:47:58",
       "updatedAt": "2026-06-15T01:47:58"
+    },
+    {
+      "id": "d5d89f6a5d5a45cfacaa33139546a79b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "GD Ha Tinh",
+        "Họ và tên người sử dụng": "GD Ha Tinh",
+        "Mã HRM": "480000",
+        "Bộ phận / Phòng ban": "GD Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-GD20",
+        "Loại máy": "Desktop",
+        "Hãng": "RealBom",
+        "Model": "RB-P101G",
+        "Năm sản xuất": "",
+        "Serial Number": "P101GV6821140119",
+        "CPU": "Intel(R) Celeron(R) CPU  J1900  @ 1.99GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "122 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.2.20",
+        "MAC Address": "50:AF:73:37:A1:2A"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T01:51:09",
+      "updatedAt": "2026-06-15T01:51:09"
     }
   ]
 }
