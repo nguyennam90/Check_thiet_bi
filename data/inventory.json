@@ -8439,6 +8439,37 @@
       ],
       "createdAt": "2026-06-15T02:25:18",
       "updatedAt": "2026-06-15T02:25:18"
+    },
+    {
+      "id": "1d48abd8b8594b31979d020312c4bd53",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "TP Hà Tĩnh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Lệ Ninh",
+        "Mã HRM": "00028142",
+        "Bộ phận / Phòng ban": "Giao Dịch Hà Tĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-GD100",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3667",
+        "Năm sản xuất": "",
+        "Serial Number": "1XNVCK2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "369 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.2.102",
+        "MAC Address": "50:9A:4C:11:08:69"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:23:44",
+      "updatedAt": "2026-06-15T02:23:44"
     }
   ]
 }
