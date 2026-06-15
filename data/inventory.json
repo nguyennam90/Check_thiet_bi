@@ -7941,6 +7941,68 @@
       ],
       "createdAt": "2026-06-15T02:03:49",
       "updatedAt": "2026-06-15T02:03:49"
+    },
+    {
+      "id": "d5dfffb2c93b42bfb825a809a8b94840",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483190",
+        "Tên Bưu cục": "BƯU ĐIỆN CHỢ TỔNG",
+        "Họ và tên người sử dụng": "Lê Huyền Trang",
+        "Mã HRM": "00270925",
+        "Bộ phận / Phòng ban": "VHX TRƯỜNG LỘC",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-CHOTONG4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "658K8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Enterprise LTSC 10.0.17763",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.111",
+        "MAC Address": "18:66:DA:27:EC:C9"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "ups",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:06:23",
+      "updatedAt": "2026-06-15T02:06:23"
     }
   ]
 }
