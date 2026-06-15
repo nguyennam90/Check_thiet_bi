@@ -9081,6 +9081,43 @@
       ],
       "createdAt": "2026-06-15T03:01:10",
       "updatedAt": "2026-06-15T03:01:10"
+    },
+    {
+      "id": "74fe09d6c065494dacbcee3a5c960694",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481990",
+        "Tên Bưu cục": "BC Thạch Hà",
+        "Họ và tên người sử dụng": "Nguyễn Thị Minh Nguyệt",
+        "Mã HRM": "00028335",
+        "Bộ phận / Phòng ban": "BC Thạch Hà",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-THACHHA-481",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 3268",
+        "Năm sản xuất": "",
+        "Serial Number": "GBRZFL2",
+        "CPU": "Intel(R) Pentium(R) CPU G4560 @ 3.50GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "911 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.2.104",
+        "MAC Address": "50:9A:4C:22:06:9F"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:04:13",
+      "updatedAt": "2026-06-15T03:04:13"
     }
   ]
 }
