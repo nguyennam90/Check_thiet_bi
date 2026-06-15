@@ -8176,6 +8176,48 @@
       ],
       "createdAt": "2026-06-15T02:16:37",
       "updatedAt": "2026-06-15T02:16:37"
+    },
+    {
+      "id": "3dbdf466918345ecae498a0bda8f21f1",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "480000",
+        "Tên Bưu cục": "TP Ha Tinh",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng Ánh",
+        "Mã HRM": "00028349",
+        "Bộ phận / Phòng ban": "Giao Dich TP Ha Tinh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TPHT-GD25",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "64KJ8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "226 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro N 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.2.25",
+        "MAC Address": "18:66:DA:28:7F:A4"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "laserJet Pro M404dw",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "zebra zd620",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:18:15",
+      "updatedAt": "2026-06-15T02:18:15"
     }
   ]
 }
