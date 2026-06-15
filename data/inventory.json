@@ -8470,6 +8470,37 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:23:44",
       "updatedAt": "2026-06-15T02:23:44"
+    },
+    {
+      "id": "b31a377a2528466d9cc84ea17d7f814a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "Bưu cục vận hành Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Lê Thị Thanh Hiền",
+        "Mã HRM": "0027757",
+        "Bộ phận / Phòng ban": "BCP Hồng Lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HL-GD-105",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3020M",
+        "Năm sản xuất": "",
+        "Serial Number": "57WBH32",
+        "CPU": "Intel(R) Core(TM) i3-4150T CPU @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Ứng dụng Microsoft 365 dành cho doanh nghiệp lớn - vi-vn",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.43.143.105",
+        "MAC Address": "B0:83:FE:9C:B9:28"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-15T02:29:10",
+      "updatedAt": "2026-06-15T02:29:10"
     }
   ]
 }
