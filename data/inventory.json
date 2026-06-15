@@ -9584,6 +9584,43 @@
       ],
       "createdAt": "2026-06-15T04:04:20",
       "updatedAt": "2026-06-15T04:04:20"
+    },
+    {
+      "id": "4772f3aced494daeb068ee6aeb0778b3",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "song lộc",
+        "Tên Xã": "trường lưu",
+        "Mã Bưu cục": "483220",
+        "Tên Bưu cục": "bdvhx song lộc",
+        "Họ và tên người sử dụng": "trần thị dung",
+        "Mã HRM": "00027717",
+        "Bộ phận / Phòng ban": "vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-CL-SONGLOC4",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "643J8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "225 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.2",
+        "MAC Address": "18:66:DA:28:F9:04"
+      },
+      "attachments": [
+        {
+          "type": "barcode_reader",
+          "name": "zebra",
+          "serial": "ds22"
+        }
+      ],
+      "createdAt": "2026-06-15T04:05:58",
+      "updatedAt": "2026-06-15T04:05:58"
     }
   ]
 }
