@@ -9533,6 +9533,43 @@
       ],
       "createdAt": "2026-06-15T08:05:21",
       "updatedAt": "2026-06-15T08:05:21"
+    },
+    {
+      "id": "ef2ae05654ca443b9e7301bb7063de27",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "Bưu điện vhx sơn tây",
+        "Tên Xã": "Sơn tây",
+        "Mã Bưu cục": "486250",
+        "Tên Bưu cục": "Sơn tây",
+        "Họ và tên người sử dụng": "Hồ thị sen",
+        "Mã HRM": "00027984",
+        "Bộ phận / Phòng ban": "Vhx",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Hp",
+        "Loại máy": "Máy để bàn",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "1",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Canon",
+          "serial": "Lbp2900"
+        }
+      ],
+      "createdAt": "2026-06-15T08:30:57",
+      "updatedAt": "2026-06-15T08:30:57"
     }
   ]
 }
