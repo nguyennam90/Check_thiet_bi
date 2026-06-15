@@ -9526,6 +9526,48 @@
       "attachments": [],
       "createdAt": "2026-06-15T03:59:49",
       "updatedAt": "2026-06-15T03:59:49"
+    },
+    {
+      "id": "084621c7cf0942e5b3825dfd919e1424",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "Bưu điện xã thạch khê",
+        "Mã Bưu cục": "481960",
+        "Tên Bưu cục": "Bưu điện văn hoá xã thạch đỉnh",
+        "Họ và tên người sử dụng": "Hồ thị thương",
+        "Mã HRM": "00027746",
+        "Bộ phận / Phòng ban": "Nhân viên giao dịch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "Dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Hp đã bị hỏng",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "Đã hỏng",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T04:03:16",
+      "updatedAt": "2026-06-15T04:03:16"
     }
   ]
 }
