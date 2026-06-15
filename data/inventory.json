@@ -8720,6 +8720,48 @@
       ],
       "createdAt": "2026-06-15T02:36:15",
       "updatedAt": "2026-06-15T02:36:15"
+    },
+    {
+      "id": "e087bca2ce2b466fbfdeb04ef3ca1a43",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "482000",
+        "Tên Bưu cục": "VHX Hộ Độ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hải",
+        "Mã HRM": "00028315",
+        "Bộ phận / Phòng ban": "nhan viên bưu điện văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HODO-482000",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC52221YF",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "240 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.9",
+        "MAC Address": "10:B6:76:9E:22:37"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "honeywell",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:36:20",
+      "updatedAt": "2026-06-15T02:36:20"
     }
   ]
 }
