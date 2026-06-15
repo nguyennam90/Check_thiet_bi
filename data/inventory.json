@@ -10151,6 +10151,48 @@
       ],
       "createdAt": "2026-06-15T10:13:39",
       "updatedAt": "2026-06-15T10:13:39"
+    },
+    {
+      "id": "e7f973a393ef42ffab787aa93cd16e69",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "487410",
+        "Tên Xã": "hương xuân",
+        "Mã Bưu cục": "487410",
+        "Tên Bưu cục": "vhx hương lâm",
+        "Họ và tên người sử dụng": "nguyễn thị diệu thảo",
+        "Mã HRM": "00028117",
+        "Bộ phận / Phòng ban": "nv vhx ghép px",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "hp laser jet prom201dw",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "antech",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T10:16:09",
+      "updatedAt": "2026-06-15T10:16:09"
     }
   ]
 }
