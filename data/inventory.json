@@ -8543,6 +8543,48 @@
       ],
       "createdAt": "2026-06-15T02:33:43",
       "updatedAt": "2026-06-15T02:33:43"
+    },
+    {
+      "id": "8b64e223aa184a9b9ab97b24eb2c48aa",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "GIA HANH",
+        "Mã Bưu cục": "483280",
+        "Tên Bưu cục": "NHÂN LỘC",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hồng",
+        "Mã HRM": "0027708",
+        "Bộ phận / Phòng ban": "nhân viên bưu điện xã Nhân Lộc",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DELL",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "5060",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon",
+          "serial": "LBP2900"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "ZEBRA",
+          "serial": "DS22"
+        }
+      ],
+      "createdAt": "2026-06-14T11:52:46",
+      "updatedAt": "2026-06-14T11:52:46"
     }
   ]
 }
