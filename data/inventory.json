@@ -9643,6 +9643,43 @@
       ],
       "createdAt": "2026-06-15T08:36:31",
       "updatedAt": "2026-06-15T08:36:31"
+    },
+    {
+      "id": "78d93d767f4f46a3aadd6df21c0f3f92",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "487371",
+        "Tên Bưu cục": "xã phúc trạch",
+        "Họ và tên người sử dụng": "nguyễn thị thanh nga",
+        "Mã HRM": "00102948",
+        "Bộ phận / Phòng ban": "văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HCOM",
+        "Loại máy": "",
+        "Hãng": "Hồng hà",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "AC230V",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": "50/60HZ"
+        }
+      ],
+      "createdAt": "2026-06-15T08:39:24",
+      "updatedAt": "2026-06-15T08:39:24"
     }
   ]
 }
