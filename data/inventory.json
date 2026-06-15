@@ -9039,6 +9039,48 @@
       ],
       "createdAt": "2026-06-15T02:59:28",
       "updatedAt": "2026-06-15T02:59:28"
+    },
+    {
+      "id": "6f1f2362fe22402aa9cef9d0a8c22b46",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "485310",
+        "Tên Bưu cục": "VHX Đức Lập",
+        "Họ và tên người sử dụng": "Đồng Văn Thân",
+        "Mã HRM": "00027915",
+        "Bộ phận / Phòng ban": "BĐ VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-DT-DLAP-485",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "642M8F2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "114 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.37",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "HP M201DW",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "antech",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T03:01:10",
+      "updatedAt": "2026-06-15T03:01:10"
     }
   ]
 }
