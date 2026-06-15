@@ -8034,6 +8034,43 @@
       "attachments": [],
       "createdAt": "2026-06-15T02:09:13",
       "updatedAt": "2026-06-15T02:09:13"
+    },
+    {
+      "id": "6e44d1058e244245a1736e0603219215",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483710",
+        "Tên Bưu cục": "Bưu cục Vận Hành Hồng Lĩnh",
+        "Họ và tên người sử dụng": "Phạm Lê Hữu Tình",
+        "Mã HRM": "00231439",
+        "Bộ phận / Phòng ban": "BCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HLKT53",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "H310M DS2 2.0",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Pentium(R) Gold G5420 CPU @ 3.80GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "112 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.43.143.53",
+        "MAC Address": "18:C0:4D:1F:4C:70"
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T02:00:25",
+      "updatedAt": "2026-06-15T02:00:25"
     }
   ]
 }
