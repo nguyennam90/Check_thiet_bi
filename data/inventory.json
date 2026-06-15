@@ -9956,6 +9956,43 @@
       ],
       "createdAt": "2026-06-15T09:38:16",
       "updatedAt": "2026-06-15T09:38:16"
+    },
+    {
+      "id": "bd18f02fe5ac464392ce1d1640b98e59",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "481120",
+        "Tên Bưu cục": "VP Bưu điện tỉnh",
+        "Họ và tên người sử dụng": "Phan Thị Thành",
+        "Mã HRM": "00027580",
+        "Bộ phận / Phòng ban": "TT Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-MK5AESO",
+        "Loại máy": "Laptop",
+        "Hãng": "Dell Inc.",
+        "Model": "Inspiron 7537",
+        "Năm sản xuất": "",
+        "Serial Number": "7L78432",
+        "CPU": "Intel(R) Core(TM) i5-4210U CPU @ 1.70GHz",
+        "RAM": "5.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19043",
+        "Office": "Microsoft Office Professional Plus 2019 - en-us",
+        "Antivirus": "Windows Defender",
+        "IP Address": "192.168.1.107",
+        "MAC Address": "80:19:34:C3:BC:9D"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-15T09:38:21",
+      "updatedAt": "2026-06-15T09:38:21"
     }
   ]
 }
