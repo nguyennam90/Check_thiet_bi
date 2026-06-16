@@ -10460,6 +10460,43 @@
       ],
       "createdAt": "2026-06-16T02:10:23",
       "updatedAt": "2026-06-16T02:10:23"
+    },
+    {
+      "id": "271e420191914146991fcb3882c9eac6",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4838",
+        "Tên Xã": "Vũ Quang",
+        "Mã Bưu cục": "486780",
+        "Tên Bưu cục": "VHX Hương Thọ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Thắm",
+        "Mã HRM": "00028055",
+        "Bộ phận / Phòng ban": "GDV VHX Hương THọ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-ULK4BI8",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro Mini 400 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC5231LNJ",
+        "CPU": "13th Gen Intel(R) Core(TM) i3-13100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.3",
+        "MAC Address": "10:B6:76:9E:C9:42"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "pro m402",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T03:00:36",
+      "updatedAt": "2026-06-16T03:00:36"
     }
   ]
 }
