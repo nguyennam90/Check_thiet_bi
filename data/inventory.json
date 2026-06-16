@@ -10423,6 +10423,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T02:09:49",
       "updatedAt": "2026-06-16T02:09:49"
+    },
+    {
+      "id": "df689695bdcf49e2b1f39c43cce09ea9",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4838",
+        "Tên Xã": "VŨ QUANG",
+        "Mã Bưu cục": "486730",
+        "Tên Bưu cục": "VHX SƠN THỌ",
+        "Họ và tên người sử dụng": "Nguyễn Thị Hà",
+        "Mã HRM": "00028052",
+        "Bộ phận / Phòng ban": "điểm giao dịch Văn hóa xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-VQ-ST6730",
+        "Loại máy": "Desktop",
+        "Hãng": "Micro-Star International Co., Ltd.",
+        "Model": "MS-7E05",
+        "Năm sản xuất": "",
+        "Serial Number": "Default string",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "90 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.58.138",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon 2900",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T02:10:23",
+      "updatedAt": "2026-06-16T02:10:23"
     }
   ]
 }
