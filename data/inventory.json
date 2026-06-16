@@ -10324,6 +10324,37 @@
       ],
       "createdAt": "2026-06-16T01:21:50",
       "updatedAt": "2026-06-16T01:21:50"
+    },
+    {
+      "id": "a5d7027d63d04ddeaaca6e5a5c8cecc8",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "486250",
+        "Tên Xã": "XÃ SƠN TÂY",
+        "Mã Bưu cục": "486250",
+        "Tên Bưu cục": "SƠN TÂY",
+        "Họ và tên người sử dụng": "HỒ THỊ SEN",
+        "Mã HRM": "00027984",
+        "Bộ phận / Phòng ban": "VHX SƠN TÂY",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-SONTAY",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC01132LZ",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "466 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.4",
+        "MAC Address": "38:22:E2:18:90:AC"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T01:42:40",
+      "updatedAt": "2026-06-16T01:42:40"
     }
   ]
 }
