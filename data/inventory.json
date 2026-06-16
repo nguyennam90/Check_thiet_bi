@@ -10355,6 +10355,43 @@
       "attachments": [],
       "createdAt": "2026-06-16T01:42:40",
       "updatedAt": "2026-06-16T01:42:40"
+    },
+    {
+      "id": "70f55d1fc35e4c15baecbc8d1e6d540a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "4826",
+        "Tên Xã": "Đức Thọ",
+        "Mã Bưu cục": "484917",
+        "Tên Bưu cục": "KHL",
+        "Họ và tên người sử dụng": "Đào Thị Nhàn",
+        "Mã HRM": "00027846",
+        "Bộ phận / Phòng ban": "KD BCCP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "VNPOST",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP ProDesk 600 G5 Desktop Mini",
+        "Năm sản xuất": "",
+        "Serial Number": "8CC0490QYY",
+        "CPU": "Intel(R) Core(TM) i3-9100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "465 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "10.43.145.17",
+        "MAC Address": "30:24:A9:85:82:25"
+      },
+      "attachments": [
+        {
+          "type": "thermal_printer",
+          "name": "Zebra",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-16T01:37:04",
+      "updatedAt": "2026-06-16T01:37:04"
     }
   ]
 }
