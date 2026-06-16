@@ -10581,6 +10581,37 @@
       ],
       "createdAt": "2026-06-16T08:29:06",
       "updatedAt": "2026-06-16T08:29:06"
+    },
+    {
+      "id": "4ec8b29ae0444a18993f5cb459369217",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "483010",
+        "Tên Bưu cục": "BĐVHX Tân Lộc",
+        "Họ và tên người sử dụng": "Nguyễn Thị Cẩm",
+        "Mã HRM": "0008299",
+        "Bộ phận / Phòng ban": "vhx xã",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-TANLOC-4830",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "3Z781H2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26200",
+        "Office": "",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus",
+        "IP Address": "192.168.1.64",
+        "MAC Address": "48:4D:7E:DE:2B:60"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-16T10:45:45",
+      "updatedAt": "2026-06-16T10:45:45"
     }
   ]
 }
