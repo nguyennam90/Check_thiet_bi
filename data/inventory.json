@@ -10612,6 +10612,37 @@
       "attachments": [],
       "createdAt": "2026-06-16T10:45:45",
       "updatedAt": "2026-06-16T10:45:45"
+    },
+    {
+      "id": "7b6ed8798ad74460b08a27afd16ce221",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "486020",
+        "Tên Bưu cục": "bưu điện xã sơn quang",
+        "Họ và tên người sử dụng": "trần thị thùy dung",
+        "Mã HRM": "00271286",
+        "Bộ phận / Phòng ban": "vhx sơn quang",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HTH-HS-SQUANG",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 3040",
+        "Năm sản xuất": "",
+        "Serial Number": "F8G4VG2",
+        "CPU": "Intel(R) Core(TM) i3-6100T CPU @ 3.20GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "111 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "192.168.1.6",
+        "MAC Address": "18:66:DA:43:B9:BE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-17T01:32:23",
+      "updatedAt": "2026-06-17T01:32:23"
     }
   ]
 }
