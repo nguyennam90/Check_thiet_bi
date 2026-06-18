@@ -10932,6 +10932,43 @@
       ],
       "createdAt": "2026-06-18T02:49:08",
       "updatedAt": "2026-06-18T02:49:08"
+    },
+    {
+      "id": "a86f3bca6d394ae39fa8a154cc9dbc1f",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "6608",
+        "Tên Xã": "BƯU ĐIỆN XÃ THUẬN NAM",
+        "Mã Bưu cục": "663900",
+        "Tên Bưu cục": "BƯU CỤC THUẬN NAM",
+        "Họ và tên người sử dụng": "QUÃNG NỮ BÁ THƯƠNG",
+        "Mã HRM": "00238641",
+        "Bộ phận / Phòng ban": "KẾ TOÁN",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN-PC",
+        "Loại máy": "Desktop",
+        "Hãng": "By O.E.M.",
+        "Model": "H81M",
+        "Năm sản xuất": "",
+        "Serial Number": "By O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G3220 @ 3.00GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.19045",
+        "Office": "Microsoft Office Professional Plus 2021 - en-us",
+        "Antivirus": "Windows Defender, 360 Total Security",
+        "IP Address": "10.63.116.54",
+        "MAC Address": "00:E0:4C:42:1D:ED"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "CANON",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T03:03:30",
+      "updatedAt": "2026-06-18T03:03:30"
     }
   ]
 }
