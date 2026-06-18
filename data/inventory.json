@@ -10885,6 +10885,53 @@
       ],
       "createdAt": "2026-06-18T01:59:24",
       "updatedAt": "2026-06-18T01:59:24"
+    },
+    {
+      "id": "mjrur0prwd8000000000000000000000",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "00028020",
+        "Tên Xã": "Sơn Giang",
+        "Mã Bưu cục": "486000",
+        "Tên Bưu cục": "vhx Sơn lâm",
+        "Họ và tên người sử dụng": "Lê Thị Tố nga",
+        "Mã HRM": "00028020",
+        "Bộ phận / Phòng ban": "VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "HP",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser jet pro M203dn",
+          "serial": "8008200851/4008200851/180030033003"
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "photocopier",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T02:49:08",
+      "updatedAt": "2026-06-18T02:49:08"
     }
   ]
 }
