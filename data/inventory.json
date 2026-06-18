@@ -10811,6 +10811,43 @@
       ],
       "createdAt": "2026-06-17T04:23:49",
       "updatedAt": "2026-06-17T04:23:49"
+    },
+    {
+      "id": "c8d5fead87cc4e35981d72f1f75b221c",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "486040",
+        "Tên Xã": "sơn lĩnh",
+        "Mã Bưu cục": "486040",
+        "Tên Bưu cục": "sơn lĩnh",
+        "Họ và tên người sử dụng": "đinh thị vân huyền",
+        "Mã HRM": "00027986",
+        "Bộ phận / Phòng ban": "bđvh sơn lĩnh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "dell",
+        "Loại máy": "dell",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [
+        {
+          "type": "scanner",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T00:53:39",
+      "updatedAt": "2026-06-18T00:53:39"
     }
   ]
 }
