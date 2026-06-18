@@ -10848,6 +10848,43 @@
       ],
       "createdAt": "2026-06-18T00:53:39",
       "updatedAt": "2026-06-18T00:53:39"
+    },
+    {
+      "id": "4e6995c4837e45029952259959abde06",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "65",
+        "Tên Bưu cục": "Bưu điện tỉnh Khánh Hòa",
+        "Họ và tên người sử dụng": "Tạ Phan Thanh",
+        "Mã HRM": "00038843",
+        "Bộ phận / Phòng ban": "Phòng tài chính kế hoạch",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "ADMIN",
+        "Loại máy": "Desktop",
+        "Hãng": "Gigabyte Technology Co., Ltd.",
+        "Model": "To be filled by O.E.M.",
+        "Năm sản xuất": "",
+        "Serial Number": "To be filled by O.E.M.",
+        "CPU": "Intel(R) Pentium(R) CPU G2030 @ 3.00GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "335 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Pro 10.0.17134",
+        "Office": "Microsoft Office Professional Plus 2016 - en-us",
+        "Antivirus": "Avast Antivirus",
+        "IP Address": "10.57.135.60",
+        "MAC Address": "94:DE:80:11:6A:93"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "may in canon LBP3300",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-18T01:59:24",
+      "updatedAt": "2026-06-18T01:59:24"
     }
   ]
 }
