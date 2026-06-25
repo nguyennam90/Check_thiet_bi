@@ -11421,6 +11421,48 @@
       ],
       "createdAt": "2026-06-25T08:48:25",
       "updatedAt": "2026-06-25T08:48:25"
+    },
+    {
+      "id": "d326c32d6b8b4b68a2ccfb943847c032",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854750",
+        "Tên Bưu cục": "Hậu Thạnh Tây",
+        "Họ và tên người sử dụng": "Nguyễn Thị Bảo Trân",
+        "Mã HRM": "00248857",
+        "Bộ phận / Phòng ban": "BĐVHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-HTT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "BD6M8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "229 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26100",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.41",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:56:41",
+      "updatedAt": "2026-06-25T08:56:41"
     }
   ]
 }
