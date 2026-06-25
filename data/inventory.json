@@ -11317,6 +11317,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:28:36",
       "updatedAt": "2026-06-25T08:28:36"
+    },
+    {
+      "id": "a428158aa35d4400aa07a48a9630b195",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8575",
+        "Tên Bưu cục": "BĐX NHƠN HÒA LẬP",
+        "Họ và tên người sử dụng": "LƯƠNG THỊ NGỌC TUYẾT",
+        "Mã HRM": "00094928",
+        "Bộ phận / Phòng ban": "GIÁM ĐÔC XÃ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-TUYETL",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3681",
+        "Năm sản xuất": "",
+        "Serial Number": "1ZFHJM3",
+        "CPU": "Intel(R) Core(TM) i3-10105 CPU @ 3.70GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "228 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Professional Plus 2013",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.23",
+        "MAC Address": "74:86:E2:0C:59:21"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T08:30:25",
+      "updatedAt": "2026-06-25T08:30:25"
     }
   ]
 }
