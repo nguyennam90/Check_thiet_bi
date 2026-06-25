@@ -11089,6 +11089,48 @@
       ],
       "createdAt": "2026-06-25T08:03:48",
       "updatedAt": "2026-06-25T08:03:48"
+    },
+    {
+      "id": "108b5378369141f3ad2878c41533cd28",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "BƯU ĐIỆN XÃ THẠNH HÓA",
+        "Tên Xã": "THẠNH HÓA",
+        "Mã Bưu cục": "854670",
+        "Tên Bưu cục": "BCVH TÂN THẠNH-THẠNH HÓA",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ DIỂM NGÂN",
+        "Mã HRM": "00231418",
+        "Bộ phận / Phòng ban": "BCVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-THOA-NGANNT",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "GBC4TR2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.150.16",
+        "MAC Address": "B8:85:84:A8:C9:FF"
+      },
+      "attachments": [
+        {
+          "type": "photocopier",
+          "name": "CANON LASER JET PRO M203D",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "HONEY WELL",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:08:30",
+      "updatedAt": "2026-06-25T08:08:30"
     }
   ]
 }
