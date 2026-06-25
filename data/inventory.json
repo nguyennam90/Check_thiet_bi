@@ -11011,6 +11011,37 @@
       ],
       "createdAt": "2026-06-18T07:29:27",
       "updatedAt": "2026-06-18T07:29:27"
+    },
+    {
+      "id": "614bc154af35459f871ec5b5d3ee2d86",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "A",
+        "Tên Bưu cục": "MINH XUÂN",
+        "Họ và tên người sử dụng": "Phạm Hoàng Linh",
+        "Mã HRM": "00064189",
+        "Bộ phận / Phòng ban": "TTVH",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "TQG-TTVH-LINHPH",
+        "Loại máy": "Desktop",
+        "Hãng": "HP",
+        "Model": "HP Pro SFF 280 G9 Desktop PC",
+        "Năm sản xuất": "",
+        "Serial Number": "4CE435BT91",
+        "CPU": "Intel(R) Core(TM) i3-14100",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "237 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Professional Plus 2016",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.25.48.29",
+        "MAC Address": "24:6A:0E:74:25:E5"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T02:53:11",
+      "updatedAt": "2026-06-25T02:53:11"
     }
   ]
 }
