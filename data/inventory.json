@@ -11224,6 +11224,37 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:13:43",
       "updatedAt": "2026-06-25T08:13:43"
+    },
+    {
+      "id": "804f584223b2453fb0cbc52294027364",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854600",
+        "Tên Bưu cục": "Bưu Cục Tân Thạnh",
+        "Họ và tên người sử dụng": "Lê Thị Thu Trang",
+        "Mã HRM": "00101712",
+        "Bộ phận / Phòng ban": "Giao Dịch Viên",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-TRANG",
+        "Loại máy": "Desktop",
+        "Hãng": "LENOVO",
+        "Model": "11T4S8YP00",
+        "Năm sản xuất": "",
+        "Serial Number": "GM06Z1H2",
+        "CPU": "12th Gen Intel(R) Core(TM) i3-12100T",
+        "RAM": "7.7 GB",
+        "Ổ cứng": "238 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home 10.0.22621",
+        "Office": "Microsoft 365 - en-us",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.144",
+        "MAC Address": "E8:80:88:A4:2B:AE"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-25T08:15:27",
+      "updatedAt": "2026-06-25T08:15:27"
     }
   ]
 }
