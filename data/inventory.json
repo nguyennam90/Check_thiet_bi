@@ -11042,6 +11042,53 @@
       "attachments": [],
       "createdAt": "2026-06-25T02:53:11",
       "updatedAt": "2026-06-25T02:53:11"
+    },
+    {
+      "id": "bbf627aefc8d4d718ea8e203bce3945b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854670",
+        "Tên Bưu cục": "TÂN THẠNH",
+        "Họ và tên người sử dụng": "Nguyễn Vũ Phương",
+        "Mã HRM": "00044612",
+        "Bộ phận / Phòng ban": "Bưu cục vận hành",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-BCP1",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "83M20J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "7.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.81.148.63",
+        "MAC Address": "48:4D:7E:B9:D5:FF"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "thermal_printer",
+          "name": "",
+          "serial": ""
+        },
+        {
+          "type": "barcode_reader",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-25T08:03:48",
+      "updatedAt": "2026-06-25T08:03:48"
     }
   ]
 }
