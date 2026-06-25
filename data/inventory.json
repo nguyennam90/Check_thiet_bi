@@ -11379,6 +11379,48 @@
       "attachments": [],
       "createdAt": "2026-06-25T08:37:37",
       "updatedAt": "2026-06-25T08:37:37"
+    },
+    {
+      "id": "d50b143c8e774a5a9f0d9c1cadf4e82b",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854690",
+        "Tên Bưu cục": "BĐ VHX NHƠN HÒA LẬP",
+        "Họ và tên người sử dụng": "NGUYỄN THỊ KIM HOÀNG",
+        "Mã HRM": "00044634",
+        "Bộ phận / Phòng ban": "NHÂN VIÊN BĐ VHX NHƠN HÒA LẬP",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TTH-NHLAP",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "OptiPlex 5060",
+        "Năm sản xuất": "",
+        "Serial Number": "9ZBW8T2",
+        "CPU": "Intel(R) Core(TM) i3-8100T CPU @ 3.10GHz",
+        "RAM": "3.8 GB",
+        "Ổ cứng": "224 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.26200",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.49",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "Laser Jet Pro",
+          "serial": "M203d"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "CINO",
+          "serial": "A770-BSR"
+        }
+      ],
+      "createdAt": "2026-06-25T08:48:25",
+      "updatedAt": "2026-06-25T08:48:25"
     }
   ]
 }
