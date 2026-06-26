@@ -11719,6 +11719,48 @@
       "attachments": [],
       "createdAt": "2026-06-26T07:28:20",
       "updatedAt": "2026-06-26T07:28:20"
+    },
+    {
+      "id": "79198da877ed4e49b7b9f1334e5a9c74",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855220",
+        "Tên Bưu cục": "BCVH VĨNH HƯNG",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG XUÂN",
+        "Mã HRM": "00044800",
+        "Bộ phận / Phòng ban": "XỬ LÝ NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-32US4RD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3653",
+        "Năm sản xuất": "",
+        "Serial Number": "80X40J2",
+        "CPU": "Intel(R) Core(TM) i3-6100 CPU @ 3.70GHz",
+        "RAM": "3.9 GB",
+        "Ổ cứng": "223 GB",
+        "Hệ điều hành": "Microsoft Windows 10 Home 10.0.19045",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender",
+        "IP Address": "10.81.152.32",
+        "MAC Address": "48:4D:7E:9B:7D:1C"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "canon LPB29000",
+          "serial": "L11121E"
+        },
+        {
+          "type": "barcode_reader",
+          "name": "SYMBOL",
+          "serial": "1636000500794"
+        }
+      ],
+      "createdAt": "2026-06-26T07:50:14",
+      "updatedAt": "2026-06-26T07:50:14"
     }
   ]
 }
