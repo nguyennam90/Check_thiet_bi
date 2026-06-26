@@ -11761,6 +11761,37 @@
       ],
       "createdAt": "2026-06-26T07:50:14",
       "updatedAt": "2026-06-26T07:50:14"
+    },
+    {
+      "id": "5b60fe702f4847ebb50a3de647e6da30",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "855220",
+        "Tên Bưu cục": "BCVH VĨNH HƯNG",
+        "Họ và tên người sử dụng": "LÊ THỊ HỒNG XUÂN",
+        "Mã HRM": "00044800",
+        "Bộ phận / Phòng ban": "XỬ LÝ NGHIỆP VỤ",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "DESKTOP-32US4RD",
+        "Loại máy": "",
+        "Hãng": "",
+        "Model": "",
+        "Năm sản xuất": "",
+        "Serial Number": "",
+        "CPU": "",
+        "RAM": "",
+        "Ổ cứng": "",
+        "Hệ điều hành": "",
+        "Office": "",
+        "Antivirus": "",
+        "IP Address": "",
+        "MAC Address": ""
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:51:30",
+      "updatedAt": "2026-06-26T07:51:30"
     }
   ]
 }
