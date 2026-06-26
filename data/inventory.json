@@ -11688,6 +11688,37 @@
       ],
       "createdAt": "2026-06-26T06:56:37",
       "updatedAt": "2026-06-26T06:56:37"
+    },
+    {
+      "id": "cf16a45af2864942a8222bf2083fd57a",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "8409",
+        "Tên Bưu cục": "Văn Phòng Bưu điện tỉnh Tây Ninh",
+        "Họ và tên người sử dụng": "Bùi Huỳnh Toàn",
+        "Mã HRM": "00044412",
+        "Bộ phận / Phòng ban": "Trung Tâm Kinh Doanh",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-KHKD-TOANBH",
+        "Loại máy": "Laptop",
+        "Hãng": "ASUSTeK COMPUTER INC.",
+        "Model": "VivoBook_ASUSLaptop X530FN_S530FN",
+        "Năm sản xuất": "",
+        "Serial Number": "JBN0CX126357469",
+        "CPU": "Intel(R) Core(TM) i5-8265U CPU @ 1.60GHz",
+        "RAM": "3,9 GB",
+        "Ổ cứng": "222 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Home Single Language 10.0.22631",
+        "Office": "Microsoft Office Office 64-bit Components 2010",
+        "Antivirus": "Windows Defender, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.165.80.138",
+        "MAC Address": "A0:A4:C5:7F:65:8E"
+      },
+      "attachments": [],
+      "createdAt": "2026-06-26T07:28:20",
+      "updatedAt": "2026-06-26T07:28:20"
     }
   ]
 }
