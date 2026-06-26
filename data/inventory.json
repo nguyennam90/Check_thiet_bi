@@ -11651,6 +11651,43 @@
       "attachments": [],
       "createdAt": "2026-06-26T06:39:33",
       "updatedAt": "2026-06-26T06:39:33"
+    },
+    {
+      "id": "dc2c42b34ba44584b9299eb9fa6059fd",
+      "category": "3. Máy Tính",
+      "fields": {
+        "Mã BĐ Xã": "",
+        "Tên Xã": "",
+        "Mã Bưu cục": "854720",
+        "Tên Bưu cục": "VHX HẬU THẠNH ĐÔNG",
+        "Họ và tên người sử dụng": "TÔ THỊ TRÚC LY",
+        "Mã HRM": "00044631",
+        "Bộ phận / Phòng ban": "BƯU ĐIỆN VHX",
+        "Mã vật tư": "",
+        "Tên máy (Hostname)": "LAN-TT-VHXHTD",
+        "Loại máy": "Desktop",
+        "Hãng": "Dell Inc.",
+        "Model": "Vostro 3888",
+        "Năm sản xuất": "",
+        "Serial Number": "H0LWMF3",
+        "CPU": "Intel(R) Core(TM) i3-10100 CPU @ 3.60GHz",
+        "RAM": "7.8 GB",
+        "Ổ cứng": "1154 GB",
+        "Hệ điều hành": "Microsoft Windows 11 Pro 10.0.26100",
+        "Office": "Microsoft Office Professional 2019 - en-us",
+        "Antivirus": "Windows Defender, FortiClient AntiVirus, Kaspersky Endpoint Security for Windows",
+        "IP Address": "10.200.95.51",
+        "MAC Address": "00:09:0F:AA:00:01"
+      },
+      "attachments": [
+        {
+          "type": "laser_printer",
+          "name": "",
+          "serial": ""
+        }
+      ],
+      "createdAt": "2026-06-26T06:56:37",
+      "updatedAt": "2026-06-26T06:56:37"
     }
   ]
 }
